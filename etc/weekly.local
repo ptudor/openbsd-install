@@ -1,0 +1,4 @@
+echo "dhparam"
+openssl dhparam 1024 -out /etc/mail/certs/dhparam.dh
+
+

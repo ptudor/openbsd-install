@@ -1,0 +1,24 @@
+syslogd_flags="${syslogd_flags} -a /var/unbound/dev/log"
+#rtadvd_flags="vr1 vr2"
+#rtsold_flags="vr0"
+pflogd_flags=NO
+smtpd_flags=""
+relayd_flags=""
+
+#    -G passtime:greyexp:whiteexp
+#            Adjust the three time parameters for greylisting.  passtime
+#            defaults to 25 (minutes), greyexp to 4 (hours), and whiteexp to
+#            864 (hours, approximately 36 days).
+spamd_flags="-G 10:12:1728 -n sendmail -S 45"
+
+unbound_flags=""
+
+#pf=NO
+sendmail_flags=NO
+ntpd_flags="-s"
+
+# see /etc/ipsec.conf /etc/pf.conf /etc/npppd/
+isakmpd_flags="-K"    # Avoid keynote(4) policy checking
+ipsec=YES             # Load ipsec.conf(5) rules
+npppd_flags=YES
+

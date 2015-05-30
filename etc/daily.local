@@ -1,0 +1,27 @@
+echo "Clearing blocked ssh source IPs: "
+ pfctl -t sshscanners -T show
+ pfctl -t sshscanners -T flush
+
+echo "Check pf stats: "
+pfctl -s info
+
+
+
+
+
+### spf2cidr
+cd /etc/mail/spf && {
+        ./spf2cidr -o whitelist=nl > .whitelist.spf2cidr
+        {
+                #cat whitelist.top
+                grep "^#" .whitelist.spf2cidr
+                grep -v "^#" .whitelist.spf2cidr | sort +2
+        } > .whitelist.txt
+        if [ $? -eq 0 ]; then
+                [ -s .whitelist.txt ] && cmp -s .whitelist.txt whitelist.txt || {
+                        mv .whitelist.txt whitelist.txt
+                        pfctl -f /etc/pf.conf
+                }
+        fi
+}
+

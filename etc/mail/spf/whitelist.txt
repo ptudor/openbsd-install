@@ -1,0 +1,2349 @@
+# Non SPF TXT record '$Id: icann.org 4000 2015-05-29 14:56:33Z rquinn $' for 'icann.org'
+# Non SPF TXT record 'logmein-domain-confirmation90DIFG9EEUT8U8R4895Y87H' for 'booking.com'
+# Non SPF TXT record '926723159-3188410' for 'cisco.com'
+# Non SPF TXT record 'Will_Nash : Michael Dell Demo: Adding TXT Record to DNS Config for Google Verification' for 'dell.com'
+# Non SPF TXT record 'KMNSI' for 'eventbrite.com'
+# Non SPF TXT record 'Microsoft Federation, Kathy Pollert, 03-22-2012' for 'hp.com'
+# Non SPF TXT record 'digitalpoint-site-verify:3c101d00cbeac538589a5198ef62dedf' for 'nabble.com'
+# Non SPF TXT record 'Stichting NLnet Labs zone' for 'nlnetlabs.nl'
+# Non SPF TXT record 'Pandora' for 'pandora.com'
+# Non SPF TXT record 'M1._domainkey.paychex-info.com' for 'paychex-info.com'
+# Non SPF TXT record '596327692-12616612' for 'prosper.com'
+# Non SPF TXT record 'Standard MX Record' for 'tmo.blackberry.net'
+# Non SPF TXT record '247737391-1436455' for 'viatecla.com'
+# Non SPF TXT record '942552362-2482447' for 'zendesk.com'
+# Non SPF TXT record 'ENJUTYRYQ' for 'zendesk.com'
+# Non SPF TXT record 'thousandeyes:p6xh4ric6juof7rvskyh89vk8wvoruq7' for 'zendesk.com'
+# Non SPF TXT record 'DDNS' for 'wal-mart.com'
+# Non SPF TXT record 'ICANN hosted IP's and addresses' for '1._spf.icann.org'
+# Non SPF TXT record '3rd party hosted includes' for '2._spf.icann.org'
+# Non SPF TXT record '3rd party hosted IP's and addresses' for '3._spf.icann.org'
+                             202.3.8.210	# 1._spf.adp.com
+                           203.2.191.230	# 1._spf.adp.com
+                           217.108.10.20	# 1._spf.adp.com
+                           80.169.246.90	# 1._spf.adp.com
+                          213.27.251.163	# 1._spf.adp.com
+                         195.200.255.124	# 1._spf.adp.com
+                         198.133.214.248	# 1._spf.adp.com
+                         206.71.18.20/31	# 1._spf.adp.com
+                         207.186.185.110	# 1._spf.adp.com
+                         213.229.145.149	# 1._spf.adp.com
+                          205.141.244.20	# 1._spf.adp.com, ocmrob01.metavante.com
+                           192.0.32.0/20	# 1._spf.icann.org
+                         199.91.192.0/21	# 1._spf.icann.org
+                         2620:0:2d0::/48	# 1._spf.icann.org
+                        2620:0:2830::/48	# 1._spf.icann.org
+                        2620:0:2ed0::/48	# 1._spf.icann.org
+                            196.14.35.75	# 2._spf.adp.com
+                            216.24.50.98	# 2._spf.adp.com
+                            66.244.67.20	# 2._spf.adp.com
+                            67.20.168.22	# 2._spf.adp.com
+                            74.205.242.3	# 2._spf.adp.com
+                            74.205.242.7	# 2._spf.adp.com
+                           12.45.141.253	# 2._spf.adp.com
+                           208.38.61.199	# 2._spf.adp.com
+                           66.244.75.100	# 2._spf.adp.com
+                           74.205.242.10	# 2._spf.adp.com
+                          207.21.199.174	# 2._spf.adp.com
+                          208.18.84.0/24	# 2._spf.adp.com
+                          209.67.243.202	# 2._spf.adp.com
+                          209.67.243.250	# 2._spf.adp.com
+                         195.81.252.0/23	# 2._spf.adp.com
+                         208.251.80.0/24	# 2._spf.adp.com
+                        194.182.254.0/24	# 2._spf.adp.com
+                        208.185.229.0/24	# 2._spf.adp.com
+                        208.185.235.0/24	# 2._spf.adp.com
+                            66.244.67.50	# 2._spf.adp.com, _spf.expedia.com
+                             69.65.34.50	# 3._spf.adp.com
+                            204.93.64.13	# 3._spf.adp.com
+                            62.209.53.67	# 3._spf.adp.com
+                            64.28.83.109	# 3._spf.adp.com
+                           200.247.123.1	# 3._spf.adp.com
+                           201.86.51.138	# 3._spf.adp.com
+                           212.78.165.38	# 3._spf.adp.com
+                           63.131.134.26	# 3._spf.adp.com
+                           64.106.185.81	# 3._spf.adp.com
+                           74.63.202.182	# 3._spf.adp.com
+                          64.37.236.0/23	# 3._spf.adp.com
+                         205.219.85.0/24	# 3._spf.adp.com
+                        208.252.131.0/24	# 3._spf.adp.com
+                        216.182.220.0/23	# 3._spf.adp.com
+                        94.245.120.64/26	# 3._spf.adp.com
+                      200.247.125.242/31	# 3._spf.adp.com
+                         207.46.163.0/24	# 3._spf.adp.com, spf.protection.outlook.com
+                         207.46.51.64/26	# 3._spf.adp.com, spfa.protection.outlook.com
+                           65.55.88.0/24	# 3._spf.adp.com, spfb.protection.outlook.com
+                           199.7.203.210	# 3._spf.icann.org
+                           64.78.40.0/27	# 3._spf.icann.org
+                           66.179.50.175	# 3._spf.icann.org
+                           74.200.28.190	# 3._spf.icann.org
+                          12.130.138.182	# 3._spf.icann.org
+                          12.130.139.200	# 3._spf.icann.org
+                         75.98.93.160/28	# 3._spf.icann.org
+                        162.216.194.0/27	# 3._spf.icann.org
+                        66.179.50.176/28	# 3._spf.icann.org
+                       67.217.237.208/29	# 3._spf.icann.org
+                             54.71.88.34	# 30471560.in1.mandrillapp.com, 30471560.in2.mandrillapp.com
+                            54.71.32.218	# 30471560.in1.mandrillapp.com, 30471560.in2.mandrillapp.com
+                           54.70.134.182	# 30471560.in1.mandrillapp.com, 30471560.in2.mandrillapp.com
+                             87.106.2.53	# 3a._spf.dhl.com
+                            195.244.0.73	# 3a._spf.dhl.com
+                            85.119.129.3	# 3a._spf.dhl.com
+                            85.119.129.6	# 3a._spf.dhl.com
+                            85.119.129.9	# 3a._spf.dhl.com
+                           194.140.95.19	# 3a._spf.dhl.com
+                           208.115.235.3	# 3a._spf.dhl.com
+                          109.163.226.42	# 3a._spf.dhl.com
+                          186.202.120.20	# 3a._spf.dhl.com
+                          208.50.170.102	# 3a._spf.dhl.com
+                          62.213.193.200	# 3a._spf.dhl.com
+                          83.143.186.247	# 3a._spf.dhl.com
+                          85.90.252.0/25	# 3a._spf.dhl.com
+                        208.72.90.120/29	# 3a._spf.dhl.com
+                           208.50.170.77	# 3a._spf.dhl.com, spf.aa.com
+                          208.50.170.134	# 3a._spf.dhl.com, spf.aa.com
+                          64.211.226.179	# 3a._spf.dhl.com, spf.aa.com
+                            162.23.32.21	# 3b._spf.dhl.com
+                            162.23.32.22	# 3b._spf.dhl.com
+                           120.138.22.48	# 3b._spf.dhl.com
+                           131.239.38.47	# 3b._spf.dhl.com
+                           131.239.38.48	# 3b._spf.dhl.com
+                           162.23.37.138	# 3b._spf.dhl.com
+                           162.23.37.142	# 3b._spf.dhl.com
+                           199.41.57.131	# 3b._spf.dhl.com
+                          120.138.21.186	# 3b._spf.dhl.com
+                          131.239.38.145	# 3b._spf.dhl.com
+                          89.151.123.144	# 3b._spf.dhl.com
+                          89.151.123.236	# 3b._spf.dhl.com
+                          89.151.123.240	# 3b._spf.dhl.com
+                         109.106.168.114	# 3b._spf.dhl.com
+                         195.140.187.149	# 3b._spf.dhl.com
+                        131.239.38.56/31	# 3b._spf.dhl.com
+                       89.151.123.160/30	# 3b._spf.dhl.com
+                            165.72.11.90	# 3c._spf.dhl.com
+                            208.100.3.12	# 3c._spf.dhl.com
+                            79.125.18.87	# 3c._spf.dhl.com
+                           195.186.80.26	# 3c._spf.dhl.com
+                           195.186.80.28	# 3c._spf.dhl.com
+                           195.186.80.30	# 3c._spf.dhl.com
+                           195.186.80.32	# 3c._spf.dhl.com
+                           212.12.160.45	# 3c._spf.dhl.com
+                           213.207.89.68	# 3c._spf.dhl.com
+                           54.228.241.27	# 3c._spf.dhl.com
+                           54.228.241.47	# 3c._spf.dhl.com
+                           85.159.68.154	# 3c._spf.dhl.com
+                           88.81.230.229	# 3c._spf.dhl.com
+                          217.33.234.101	# 3c._spf.dhl.com
+                          217.33.234.108	# 3c._spf.dhl.com
+                          79.125.117.198	# 3c._spf.dhl.com
+                         194.116.198.148	# 3c._spf.dhl.com
+                         203.123.174.228	# 3c._spf.dhl.com
+                         203.144.173.226	# 3c._spf.dhl.com
+                         206.183.111.253	# 3c._spf.dhl.com
+                       174.143.75.128/29	# 3c._spf.dhl.com
+                             101.98.74.2	# 3d._spf.dhl.com
+                             212.97.55.8	# 3d._spf.dhl.com
+                             89.19.4.202	# 3d._spf.dhl.com
+                            194.50.60.61	# 3d._spf.dhl.com
+                            91.142.131.4	# 3d._spf.dhl.com
+                            91.142.131.5	# 3d._spf.dhl.com
+                            91.151.65.84	# 3d._spf.dhl.com
+                           167.89.13.189	# 3d._spf.dhl.com
+                           167.89.23.242	# 3d._spf.dhl.com
+                           66.199.168.67	# 3d._spf.dhl.com
+                          184.106.36.182	# 3d._spf.dhl.com
+                          194.109.86.187	# 3d._spf.dhl.com
+                          204.71.134.225	# 3d._spf.dhl.com
+                          216.150.190.51	# 3d._spf.dhl.com
+                          87.237.187.140	# 3d._spf.dhl.com
+                          93.183.12.0/26	# 3d._spf.dhl.com
+                         216.150.182.225	# 3d._spf.dhl.com
+                        69.56.177.192/27	# 3d._spf.dhl.com
+                       193.252.114.68/30	# 3d._spf.dhl.com
+                           208.87.221.26	# 3d._spf.dhl.com, ups.com
+                              81.25.80.7	# 3e._spf.dhl.com
+                            193.13.87.12	# 3e._spf.dhl.com
+                            193.13.87.16	# 3e._spf.dhl.com
+                            200.6.101.81	# 3e._spf.dhl.com
+                           207.10.34.203	# 3e._spf.dhl.com
+                           64.34.164.228	# 3e._spf.dhl.com
+                           91.151.65.191	# 3e._spf.dhl.com
+                          149.210.137.32	# 3e._spf.dhl.com
+                          195.130.217.28	# 3e._spf.dhl.com
+                          204.92.114.183	# 3e._spf.dhl.com
+                          213.152.156.42	# 3e._spf.dhl.com
+                          217.33.110.242	# 3e._spf.dhl.com
+                          54.228.183.114	# 3e._spf.dhl.com
+                         193.239.132.114	# 3e._spf.dhl.com
+                         94.143.105.0/24	# 3e._spf.dhl.com
+                         94.143.106.0/24	# 3e._spf.dhl.com
+                              5.79.35.45	# 3f._spf.dhl.com
+                            111.67.14.22	# 3f._spf.dhl.com
+                            152.114.64.6	# 3f._spf.dhl.com
+                            208.77.156.5	# 3f._spf.dhl.com
+                            80.76.158.72	# 3f._spf.dhl.com
+                           62.148.170.66	# 3f._spf.dhl.com
+                           68.232.135.18	# 3f._spf.dhl.com
+                          198.89.188.220	# 3f._spf.dhl.com
+                          212.97.55.0/28	# 3f._spf.dhl.com
+                          68.232.129.235	# 3f._spf.dhl.com
+                       89.167.234.232/31	# 3f._spf.dhl.com
+                            129.41.77.70	# 3ph1._spf.paypal.com
+                           63.80.14.0/23	# 3ph1._spf.paypal.com
+                          194.64.234.129	# 3ph1._spf.paypal.com
+                         204.13.11.48/29	# 3ph1._spf.paypal.com
+                         208.201.241.163	# 3ph1._spf.paypal.com
+                         208.64.132.0/22	# 3ph1._spf.paypal.com
+                       216.136.168.80/28	# 3ph1._spf.paypal.com
+                          81.223.46.0/27	# 3ph1._spf.paypal.com, emarsys.net
+                             67.72.99.26	# 3ph1._spf.paypal.com, p._sid.ebay.com, p._spf.ebay.com
+                           65.110.161.77	# 3ph1._spf.paypal.com, p._sid.ebay.com, p._spf.ebay.com
+                          64.127.115.252	# 3ph1._spf.paypal.com, p._sid.ebay.com, p._spf.ebay.com
+                       206.165.246.80/29	# 3ph1._spf.paypal.com, p._sid.ebay.com, p._spf.ebay.com
+                           12.130.86.238	# 3ph2._spf.paypal.com
+                           208.40.232.70	# 3ph2._spf.paypal.com
+                           208.85.50.137	# 3ph2._spf.paypal.com
+                           65.212.180.36	# 3ph2._spf.paypal.com
+                           67.221.168.65	# 3ph2._spf.paypal.com
+                           74.112.67.243	# 3ph2._spf.paypal.com
+                          157.151.208.65	# 3ph2._spf.paypal.com
+                          198.178.234.57	# 3ph2._spf.paypal.com
+                          204.92.114.187	# 3ph2._spf.paypal.com
+                      216.136.162.120/29	# 3ph2._spf.paypal.com
+                             8.20.114.31	# 3ph2._spf.paypal.com, 3ph3._spf.paypal.com
+                          216.136.162.65	# 3ph2._spf.paypal.com, linkedin.com
+                            209.67.98.46	# 3ph3._spf.paypal.com
+                           108.175.18.45	# 3ph3._spf.paypal.com
+                           108.175.30.45	# 3ph3._spf.paypal.com
+                           54.214.39.184	# 3ph3._spf.paypal.com
+                           54.241.16.209	# 3ph3._spf.paypal.com
+                          198.61.254.231	# 3ph3._spf.paypal.com
+                          206.25.247.143	# 3ph3._spf.paypal.com
+                          209.46.117.179	# 3ph3._spf.paypal.com
+                         54.244.242.0/24	# 3ph3._spf.paypal.com
+                          206.25.247.155	# 3ph3._spf.paypal.com, mailch.docusign.net
+                          209.46.117.168	# 3ph3._spf.paypal.com, mailda.docusign.net
+                            209.67.98.59	# 3ph3._spf.paypal.com, mailsea.docusign.net, spf4.exacttarget.com
+                         96.43.144.64/28	# 3ph4._spf.paypal.com, _mtablock1.salesforce.com
+                         96.43.148.64/28	# 3ph4._spf.paypal.com, _mtablock1.salesforce.com
+                        204.14.232.64/28	# 3ph4._spf.paypal.com, _mtablock1.salesforce.com, _thirdparty.twitter.com, dnb.com, pandora.com
+                        204.14.234.64/28	# 3ph4._spf.paypal.com, _mtablock1.salesforce.com, _thirdparty.twitter.com, dnb.com, pandora.com
+                         182.50.78.64/28	# 3ph4._spf.paypal.com, _mtablock1.salesforce.com, _thirdparty.twitter.com, dnb.com, pandora.com, spf-a.sharebuilder.com
+                         96.43.151.64/28	# 3ph4._spf.paypal.com, _mtablock1.salesforce.com, pandora.com
+                             69.65.34.61	# 4._spf.adp.com
+                           198.100.46.94	# 4._spf.adp.com
+                           66.240.176.51	# 4._spf.adp.com
+                           69.38.186.140	# 4._spf.adp.com
+                          200.98.218.133	# 4._spf.adp.com
+                          204.12.111.111	# 4._spf.adp.com
+                          208.82.118.139	# 4._spf.adp.com
+                          208.91.197.160	# 4._spf.adp.com
+                          209.59.223.204	# 4._spf.adp.com
+                          216.154.214.72	# 4._spf.adp.com
+                          216.236.236.80	# 4._spf.adp.com
+                          67.223.238.193	# 4._spf.adp.com
+                         195.200.255.248	# 4._spf.adp.com
+                         216.224.184.186	# 4._spf.adp.com
+                         216.32.180.0/24	# 4._spf.adp.com
+                        198.133.214.0/24	# 4._spf.adp.com
+                        207.187.194.0/24	# 4._spf.adp.com
+                      213.199.180.128/26	# 4._spf.adp.com
+                        213.199.154.0/24	# 4._spf.adp.com, aa.com, spf.protection.outlook.com
+                         216.32.181.0/24	# 4._spf.adp.com, spfb.protection.outlook.com
+                          64.71.148.0/29	# _hostedspf.discourse.org
+                     2001:470:1:3c2::/64	# _hostedspf.discourse.org
+                        68.87.109.208/28	# _ise.mdp.comcast.net
+                       69.252.193.224/28	# _ise.mdp.comcast.net
+        2001:558:fe16:103:69:252:193:224	# _ise.mdp.comcast.net
+                         204.14.238.0/27	# _mtablock1.salesforce.com
+                         96.43.152.64/27	# _mtablock1.salesforce.com
+                         96.43.153.64/27	# _mtablock1.salesforce.com
+                       136.146.128.64/27	# _mtablock1.salesforce.com, _spfblock.salesforce.com
+                         96.43.147.64/28	# _mtablock1.salesforce.com, pandora.com
+                           66.48.80.0/25	# _netblocks.eloqua.com
+                          129.91.18.0/24	# _netblocks.eloqua.com
+                          142.0.160.0/20	# _netblocks.eloqua.com
+                          204.92.19.0/24	# _netblocks.eloqua.com
+                          204.92.21.0/25	# _netblocks.eloqua.com
+                          204.92.22.0/24	# _netblocks.eloqua.com
+                          204.92.26.0/24	# _netblocks.eloqua.com
+                          204.92.31.0/24	# _netblocks.eloqua.com
+                         141.145.10.0/24	# _netblocks.eloqua.com
+                         204.92.114.0/24	# _netblocks.eloqua.com
+                        209.167.231.0/24	# _netblocks.eloqua.com, _spf.eloqua.sonicwall.com, equallogic.com
+                         216.58.192.0/19	# _netblocks.google.com, _spf1.zendesk.com
+                            64.18.0.0/20	# _netblocks.google.com, _spf1.zendesk.com, _spfblock.salesforce.com, freedomworks.org, msnbc.com, spf-w.verisign.com, spf.groupon.com, spf.orbitz.com, spf.postini.com, spf0.exacttarget.com, spfx.morningstar.com
+                        207.126.144.0/20	# _netblocks.google.com, _spf1.zendesk.com, _spfblock.salesforce.com, spf.groupon.com, spf.orbitz.com, spf.postini.com, spf4.exacttarget.com
+                           66.102.0.0/20	# _netblocks.google.com, _spf1.zendesk.com, spf0.exacttarget.com
+                          66.249.80.0/20	# _netblocks.google.com, _spf1.zendesk.com, spf0.exacttarget.com
+                         64.233.160.0/19	# _netblocks.google.com, _spf1.zendesk.com, spf0.exacttarget.com
+                          72.14.192.0/18	# _netblocks.google.com, _spf1.zendesk.com, spf1.exacttarget.com
+                           74.125.0.0/16	# _netblocks.google.com, _spf1.zendesk.com, spf3.exacttarget.com
+                          173.194.0.0/16	# _netblocks.google.com, _spf1.zendesk.com, spf3.exacttarget.com
+                         209.85.128.0/17	# _netblocks.google.com, _spf1.zendesk.com, spf4.exacttarget.com
+                         216.239.32.0/19	# _netblocks.google.com, _spf2.zendesk.com, spf4.exacttarget.com
+                          185.12.80.0/22	# _netblocks.zdsys.com, mail.zendesk.com, zendesk.com
+                         174.137.46.0/24	# _netblocks.zdsys.com, mail.zendesk.com, zendesk.com
+                        192.161.144.0/20	# _netblocks.zdsys.com, mail.zendesk.com, zendesk.com
+                        96.46.150.192/27	# _netblocks.zdsys.com, mail.zendesk.com, zendesk.com
+                      2800:3f0:4000::/36	# _netblocks2.google.com, _spf2.zendesk.com, spf4.exacttarget.com
+                     2001:4860:4000::/36	# _netblocks2.google.com, _spf2.zendesk.com, spf4.exacttarget.com
+                     2404:6800:4000::/36	# _netblocks2.google.com, _spf2.zendesk.com, spf4.exacttarget.com
+                     2607:f8b0:4000::/36	# _netblocks2.google.com, _spf2.zendesk.com, spf4.exacttarget.com
+                     2a00:1450:4000::/36	# _netblocks2.google.com, _spf2.zendesk.com, spf4.exacttarget.com
+                     2c0f:fb50:4000::/36	# _netblocks2.google.com, _spf2.zendesk.com, spf4.exacttarget.com
+                          171.161.41.178	# _newspf.bankofamerica.com
+                         171.159.137.178	# _newspf.bankofamerica.com
+                         171.159.227.167	# _newspf.bankofamerica.com
+                         171.161.147.155	# _newspf.bankofamerica.com
+                            216.33.244.6	# _sid.kijiji.com, _spf.kijiji.com
+                            216.33.244.7	# _sid.kijiji.com, _spf.kijiji.com
+                           65.47.93.0/24	# _sid.kijiji.com, _spf.kijiji.com
+                           91.195.49.158	# _sid.kijiji.com, _spf.kijiji.com
+                          195.78.84.0/23	# _sid.kijiji.com, _spf.kijiji.com
+                          5.255.152.0/22	# _sid.kijiji.com, _spf.kijiji.com
+                          91.211.72.0/22	# _sid.kijiji.com, _spf.kijiji.com
+                         193.105.25.0/24	# _sid.kijiji.com, _spf.kijiji.com
+                         67.106.253.0/24	# _sid.kijiji.com, _spf.kijiji.com
+                         87.195.111.0/24	# _sid.kijiji.com, _spf.kijiji.com
+                        213.244.166.0/24	# _sid.kijiji.com, _spf.kijiji.com
+                         216.113.168.128	# _sid.kijiji.com, _spf.kijiji.com, c3._sid.ebay.com
+                             216.99.5.67	# _spf-a.microsoft.com
+                             216.99.5.68	# _spf-a.microsoft.com
+                            207.46.50.72	# _spf-a.microsoft.com
+                            207.46.50.82	# _spf-a.microsoft.com
+                          203.122.32.250	# _spf-a.microsoft.com
+                         202.177.148.100	# _spf-a.microsoft.com
+                         202.177.148.110	# _spf-a.microsoft.com
+                         213.199.128.139	# _spf-a.microsoft.com
+                         213.199.128.145	# _spf-a.microsoft.com
+                         65.55.42.224/28	# _spf-a.microsoft.com
+                           208.92.176.52	# _spf-alaska.vrli.com
+                           208.92.176.15	# _spf-alaska.vrli.com, _spf-delta.vrli.com
+                           208.92.176.16	# _spf-alaska.vrli.com, _spf-delta.vrli.com
+                           208.92.178.15	# _spf-alaska.vrli.com, _spf-delta.vrli.com
+                           208.92.178.16	# _spf-alaska.vrli.com, _spf-delta.vrli.com
+                             203.32.4.25	# _spf-b.microsoft.com
+                            207.46.22.35	# _spf-b.microsoft.com
+                            207.46.22.98	# _spf-b.microsoft.com
+                           207.46.22.101	# _spf-b.microsoft.com
+                           217.77.141.52	# _spf-b.microsoft.com
+                           217.77.141.59	# _spf-b.microsoft.com
+                          131.107.0.0/16	# _spf-b.microsoft.com
+                         23.103.224.0/19	# _spf-b.microsoft.com, usairways.com
+                        206.191.224.0/19	# _spf-b.microsoft.com, usairways.com
+                             86.61.88.25	# _spf-c.microsoft.com
+                            131.107.1.18	# _spf-c.microsoft.com
+                            131.107.1.19	# _spf-c.microsoft.com
+                            131.107.1.20	# _spf-c.microsoft.com
+                            131.107.1.37	# _spf-c.microsoft.com
+                            131.107.1.44	# _spf-c.microsoft.com
+                            131.107.1.48	# _spf-c.microsoft.com
+                            131.107.1.56	# _spf-c.microsoft.com
+                            207.46.52.71	# _spf-c.microsoft.com
+                            207.46.52.79	# _spf-c.microsoft.com
+                         213.199.138.181	# _spf-c.microsoft.com
+                         213.199.138.191	# _spf-c.microsoft.com
+                           208.92.176.36	# _spf-delta.vrli.com
+                          66.77.254.0/24	# _spf-delta.vrli.com
+                        12.130.26.192/26	# _spf-delta.vrli.com
+                          148.114.252.16	# _spf-ip4.nasa.gov
+                          192.149.130.71	# _spf-ip4.nasa.gov
+                          198.116.0.0/16	# _spf-ip4.nasa.gov
+                          198.117.0.0/16	# _spf-ip4.nasa.gov
+                        192.42.77.100/30	# _spf-ip4.nasa.gov
+                       128.102.12.120/30	# _spf-ip4.nasa.gov
+                       128.156.250.68/30	# _spf-ip4.nasa.gov
+                       128.157.183.12/30	# _spf-ip4.nasa.gov
+                       128.183.245.24/30	# _spf-ip4.nasa.gov
+                       130.134.81.136/30	# _spf-ip4.nasa.gov
+                      128.159.101.144/30	# _spf-ip4.nasa.gov
+                 2001:4d0:8302:1100::/64	# _spf-ip6.nasa.gov
+                 2001:4d0:a302:1100::/64	# _spf-ip6.nasa.gov
+                          153.69.210.190	# _spf-ncr.delta.com
+                          153.69.214.201	# _spf-ncr.delta.com
+                          153.69.214.202	# _spf-ncr.delta.com
+                          153.69.214.203	# _spf-ncr.delta.com
+                          65.55.81.54/31	# _spf-ssg-a.microsoft.com
+                        65.54.121.124/31	# _spf-ssg-a.microsoft.com
+                         111.221.26.0/27	# _spf-ssg-a.microsoft.com, _spf-ssg-c.microsoft.com
+                         207.46.200.0/27	# _spf-ssg-a.microsoft.com, _spf-ssg-c.microsoft.com
+                         65.55.52.224/27	# _spf-ssg-a.microsoft.com, _spf-ssg-c.microsoft.com
+                         94.245.112.0/27	# _spf-ssg-a.microsoft.com, _spf-ssg-c.microsoft.com
+                        207.46.50.192/26	# _spf-ssg-a.microsoft.com, _spf-ssg-c.microsoft.com
+                        65.55.234.192/26	# _spf-ssg-a.microsoft.com, _spf-ssg-c.microsoft.com
+                          65.55.33.64/28	# _spf-ssg-b.microsoft.com
+                         207.68.176.0/26	# _spf-ssg-b.microsoft.com
+                        207.68.176.96/27	# _spf-ssg-b.microsoft.com
+                        65.55.178.128/27	# _spf-ssg-b.microsoft.com
+                        65.55.238.128/26	# _spf-ssg-b.microsoft.com
+                       207.46.116.128/29	# _spf-ssg-b.microsoft.com
+                       207.46.132.128/27	# _spf-ssg-b.microsoft.com
+                       207.46.222.192/26	# _spf-ssg-b.microsoft.com
+                       207.68.169.172/30	# _spf-ssg-b.microsoft.com
+                      213.199.161.128/27	# _spf-ssg-b.microsoft.com
+                           207.46.50.224	# _spf-ssg-c.microsoft.com
+                          65.55.81.48/28	# _spf-ssg-c.microsoft.com
+                        65.54.121.120/29	# _spf-ssg-c.microsoft.com
+                        94.245.112.10/31	# _spf-ssg-c.microsoft.com
+                         72.167.238.0/24	# _spf-wwd.automattic.com
+                            107.21.62.24	# _spf.acquia.com
+                            173.203.82.6	# _spf.acquia.com
+                           173.203.81.82	# _spf.acquia.com
+                          173.203.56.127	# _spf.acquia.com
+                           173.203.81.39	# _spf.acquia.com, spf2.exacttarget.com
+                          173.203.79.182	# _spf.acquia.com, spf3.exacttarget.com
+                           193.57.218.25	# _spf.airfrance.fr
+                           192.0.64.0/18	# _spf.automattic.com
+                          209.15.21.0/24	# _spf.automattic.com
+                          66.135.48.0/24	# _spf.automattic.com
+                          66.155.38.0/24	# _spf.automattic.com
+                          76.74.254.0/23	# _spf.automattic.com
+                        207.198.101.0/24	# _spf.automattic.com
+                        216.151.210.0/24	# _spf.automattic.com
+                        76.74.248.128/25	# _spf.automattic.com
+                       72.233.119.192/26	# _spf.automattic.com
+                            108.166.4.85	# _spf.centercode.com
+                            108.166.4.86	# _spf.centercode.com
+                            23.253.7.133	# _spf.centercode.com
+                           104.130.80.21	# _spf.centercode.com
+                           104.130.80.22	# _spf.centercode.com
+                           104.130.80.23	# _spf.centercode.com
+                           108.166.13.59	# _spf.centercode.com
+                           166.78.203.73	# _spf.centercode.com
+                           166.78.67.243	# _spf.centercode.com
+                           166.78.78.167	# _spf.centercode.com
+                          162.209.50.140	# _spf.centercode.com
+                          166.78.103.208	# _spf.centercode.com
+                          166.78.224.177	# _spf.centercode.com
+                          184.106.161.23	# _spf.centercode.com
+                          198.101.168.60	# _spf.centercode.com
+                          198.101.168.61	# _spf.centercode.com
+                          198.61.141.233	# _spf.centercode.com
+                          198.61.141.235	# _spf.centercode.com
+                          198.61.141.237	# _spf.centercode.com
+                          198.61.246.115	# _spf.centercode.com
+                          68.230.241.144	# _spf.centercode.com
+                         162.242.186.108	# _spf.centercode.com
+                         162.242.186.111	# _spf.centercode.com
+                           207.38.45.154	# _spf.centercode.com, symantec.com
+                            37.58.111.10	# _spf.concentrix.sonicwall.com
+                           206.71.77.132	# _spf.concentrix.sonicwall.com
+                           206.71.77.250	# _spf.concentrix.sonicwall.com
+                           97.65.143.250	# _spf.concentrix.sonicwall.com
+                          173.240.222.27	# _spf.corp.sonicwall.com
+                         208.17.117.0/24	# _spf.corp.sonicwall.com
+                         67.115.118.0/24	# _spf.corp.sonicwall.com
+                        204.212.170.0/24	# _spf.corp.sonicwall.com
+                    2620:9f:12:cacb::/96	# _spf.corp.sonicwall.com
+                          103.28.42.0/24	# _spf.createsend.com, cmail1.com
+                          146.88.28.0/24	# _spf.createsend.com, cmail1.com
+                          203.55.21.0/24	# _spf.createsend.com, cmail1.com
+                         163.47.180.0/22	# _spf.createsend.com, cmail1.com
+                         204.75.142.0/24	# _spf.createsend.com, cmail1.com
+                             54.208.1.92	# _spf.dellsecuremail.com
+                            54.208.1.118	# _spf.dellsecuremail.com
+                            208.87.208.8	# _spf.delta.com
+                          216.57.96.4/30	# _spf.delta.com
+                            84.14.253.21	# _spf.egencia.com
+                           202.87.51.226	# _spf.egencia.com
+                           65.243.153.20	# _spf.egencia.com
+                           82.150.225.79	# _spf.egencia.com
+                           89.185.57.101	# _spf.egencia.com
+                           89.185.57.102	# _spf.egencia.com
+                           89.185.57.103	# _spf.egencia.com
+                          12.110.40.0/24	# _spf.egencia.com
+                          82.150.225.129	# _spf.egencia.com
+                         193.128.149.210	# _spf.egencia.com
+                        216.251.112.0/20	# _spf.expedia.com
+                           165.193.56.42	# _spf.expedia.com, dnb.com
+                         173.209.80.0/20	# _spf.expedia.com, travelocity.com
+                            69.63.179.25	# _spf.facebook.com
+                          69.63.184.0/25	# _spf.facebook.com
+                         66.220.155.0/24	# _spf.facebook.com
+                         66.220.157.0/25	# _spf.facebook.com
+                         69.171.232.0/25	# _spf.facebook.com
+                         69.171.244.0/24	# _spf.facebook.com
+                        69.63.178.128/25	# _spf.facebook.com
+                       66.220.144.128/25	# _spf.facebook.com
+                             8.8.178.116	# _spf.freebsd.org
+               2001:1900:2254:206a::19:2	# _spf.freebsd.org
+                             68.70.187.4	# _spf.infosec.fedex.com
+                           173.255.251.7	# _spf.infosec.fedex.com
+                           209.11.164.39	# _spf.infosec.fedex.com
+                           209.11.164.56	# _spf.infosec.fedex.com
+                           72.250.202.21	# _spf.infosec.fedex.com
+                          69.65.19.64/27	# _spf.infosec.fedex.com
+                         216.136.162.123	# _spf.infosec.fedex.com
+                         216.136.162.124	# _spf.infosec.fedex.com
+                         216.136.162.125	# _spf.infosec.fedex.com
+                          69.252.76.0/28	# _spf.ipv4.mdp.comcast.net
+                          76.96.68.96/27	# _spf.ipv4.mdp.comcast.net
+                         162.150.58.0/24	# _spf.ipv4.mdp.comcast.net
+                        68.87.109.128/25	# _spf.ipv4.mdp.comcast.net
+                       69.252.193.128/25	# _spf.ipv4.mdp.comcast.net
+       2001:558:fe21:30:162:150:58:0/112	# _spf.ipv6.mdp.comcast.net
+      2001:558:fe16:103:69:252:193:0/112	# _spf.ipv6.mdp.comcast.net
+                          74.63.212.0/24	# _spf.messagegears.net
+                         216.98.158.0/24	# _spf.messagegears.net
+                         66.240.227.0/24	# _spf.messagegears.net
+                        63.143.57.128/25	# _spf.messagegears.net
+                        63.143.59.128/25	# _spf.messagegears.net
+                       212.100.244.64/31	# _spf.nsn.com
+                         62.70.39.136/29	# _spf.nsn.com, _spf1.nokia.com
+                         62.70.39.144/29	# _spf.nsn.com, _spf1.nokia.com
+                             192.41.76.4	# _spf.qemailserver.com
+                          66.35.37.96/27	# _spf.qemailserver.com
+                        192.41.90.128/26	# _spf.qemailserver.com
+                        74.206.109.32/27	# _spf.qemailserver.com
+                            12.106.87.93	# _spf.quest.sonicwall.com
+                            12.106.87.94	# _spf.quest.sonicwall.com
+                           213.1.252.133	# _spf.quest.sonicwall.com
+                           213.1.252.135	# _spf.quest.sonicwall.com
+                       136.146.208.16/28	# _spf.salesforce.com, _spf.salesforce.sonicwall.com, salesforce.com
+                       136.146.210.16/28	# _spf.salesforce.com, _spf.salesforce.sonicwall.com, salesforce.com
+                        136.147.46.32/28	# _spf.salesforce.com, salesforce.com
+                        136.147.62.32/28	# _spf.salesforce.com, salesforce.com
+                        85.222.130.32/28	# _spf.salesforce.com, salesforce.com
+                         204.14.232.0/24	# _spf.salesforce.sonicwall.com
+                         204.14.234.0/24	# _spf.salesforce.sonicwall.com
+                        202.129.242.0/24	# _spf.salesforce.sonicwall.com
+                      136.146.208.240/28	# _spf.salesforce.sonicwall.com, salesforce.com
+                      136.146.210.240/28	# _spf.salesforce.sonicwall.com, salesforce.com
+                           172.16.0.0/12	# _spf.sourceforge.com
+                         12.31.165.64/27	# _spf.sourceforge.com
+                         208.48.95.16/28	# _spf.sourceforge.com
+                         216.34.181.0/24	# _spf.sourceforge.com
+                              46.4.30.66	# _spf.wuala.com
+                              78.47.2.74	# _spf.wuala.com
+                             46.4.56.203	# _spf.wuala.com
+                    2a01:4f8:160:220c::2	# _spf.wuala.com
+                          50.57.4.208/29	# _spf1.mail.zendesk.com, _spf1.zendesk.com
+                            93.183.12.31	# _spf1.nokia.com
+                            93.183.12.32	# _spf1.nokia.com
+                           93.183.13.135	# _spf1.nokia.com
+                          145.247.12.203	# _spf1.nokia.com
+                          145.247.12.204	# _spf1.nokia.com
+                          91.220.42.0/24	# _spf2.zendesk.com
+                        195.130.217.0/24	# _spf2.zendesk.com
+                          207.82.80.0/24	# _spf3.zendesk.com
+                          63.128.21.0/24	# _spf3.zendesk.com
+                         146.101.78.0/24	# _spf3.zendesk.com
+                         207.211.30.0/24	# _spf3.zendesk.com
+                         208.66.139.0/25	# _spf3.zendesk.com
+                         213.167.75.0/24	# _spf3.zendesk.com
+                         213.167.81.0/24	# _spf3.zendesk.com
+                         216.205.24.0/24	# _spf3.zendesk.com
+                        205.139.110.0/23	# _spf3.zendesk.com
+                         207.211.31.0/25	# _spf3.zendesk.com, mailsenders.netsuite.com
+                          205.217.25.132	# _spf4.zendesk.com
+                          205.217.25.135	# _spf4.zendesk.com
+                          207.211.41.113	# _spf4.zendesk.com
+                          41.74.192.0/22	# _spf4.zendesk.com
+                          41.74.196.0/22	# _spf4.zendesk.com
+                          41.74.200.0/22	# _spf4.zendesk.com
+                          41.74.201.0/24	# _spf4.zendesk.com
+                          41.74.204.0/22	# _spf4.zendesk.com
+                          41.74.205.0/24	# _spf4.zendesk.com
+                        216.229.156.0/25	# _spf4.zendesk.com
+                            198.245.81.1	# _spfblock.salesforce.com
+                            207.67.38.45	# _spfblock.salesforce.com
+                           68.232.207.20	# _spfblock.salesforce.com
+                         198.245.95.4/30	# _spfblock.salesforce.com
+                        62.17.146.128/26	# _spfblock.salesforce.com, spf0.exacttarget.com
+                          182.50.76.0/22	# _spfblock.salesforce.com, spf2.exacttarget.com
+                          96.43.144.0/20	# _spfblock.salesforce.com, spf3.exacttarget.com
+                         204.14.232.0/21	# _spfblock.salesforce.com, spf3.exacttarget.com
+                        202.129.242.0/23	# _spfblock.salesforce.com, spf3.exacttarget.com
+                   2001:558:fe16:19::/64	# _spfv6.comcast.net
+                   2001:558:fe21:29::/64	# _spfv6.comcast.net
+                         96.43.144.64/31	# _thirdparty.twitter.com, dnb.com, pandora.com, spf-a.sharebuilder.com
+                         96.43.148.64/31	# _thirdparty.twitter.com, dnb.com, pandora.com, spf-a.sharebuilder.com
+                          171.161.160.13	# _txspf.bankofamerica.com
+                          171.161.160.26	# _txspf.bankofamerica.com
+                          171.161.160.79	# _txspf.bankofamerica.com
+                          171.161.160.80	# _txspf.bankofamerica.com
+                          171.159.192.13	# _vaspf.bankofamerica.com
+                          171.159.192.23	# _vaspf.bankofamerica.com
+                          171.159.192.79	# _vaspf.bankofamerica.com
+                          171.159.192.80	# _vaspf.bankofamerica.com
+                           74.86.241.250	# a._spf.pardot.com
+                           74.86.241.251	# a._spf.pardot.com
+                          67.228.2.24/30	# a._spf.pardot.com, spf0.exacttarget.com
+                         74.86.113.28/30	# a._spf.pardot.com, spf1.exacttarget.com
+                         74.86.195.28/30	# a._spf.pardot.com, spf1.exacttarget.com
+                         74.86.207.36/30	# a._spf.pardot.com, spf1.exacttarget.com
+                        67.228.21.184/29	# a._spf.pardot.com, spf1.exacttarget.com
+                        74.86.164.188/30	# a._spf.pardot.com, spf1.exacttarget.com
+                        74.86.171.192/30	# a._spf.pardot.com, spf1.exacttarget.com
+                        74.86.226.216/30	# a._spf.pardot.com, spf1.exacttarget.com
+                         174.37.67.28/30	# a._spf.pardot.com, spf2.exacttarget.com
+                          207.46.163.138	# aa-com.mail.protection.outlook.com, alaskaair-com.mail.protection.outlook.com, flyfrontier-com.mail.protection.outlook.com, mls-lib-ok-us.mail.protection.outlook.com, oge-com.mail.protection.outlook.com, orbitz-com.mail.protection.outlook.com, saddleback-com.mail.protection.outlook.com
+                          207.46.163.247	# aa-com.mail.protection.outlook.com, alaskaair-com.mail.protection.outlook.com, flyfrontier-com.mail.protection.outlook.com, oge-com.mail.protection.outlook.com, orbitz-com.mail.protection.outlook.com
+                          207.46.163.170	# aa-com.mail.protection.outlook.com, flyfrontier-com.mail.protection.outlook.com, mls-lib-ok-us.mail.protection.outlook.com, oge-com.mail.protection.outlook.com, orbitz-com.mail.protection.outlook.com, saddleback-com.mail.protection.outlook.com
+                             129.41.1.10	# aa.com
+                            206.16.57.70	# aa.com
+                            74.63.249.52	# aa.com
+                           12.129.0.0/16	# aa.com
+                           207.46.0.0/16	# aa.com
+                           216.32.0.0/16	# aa.com
+                           64.57.220.234	# aa.com
+                           70.37.181.254	# aa.com
+                         63.241.222.0/24	# aa.com
+                        213.244.175.0/24	# aa.com
+                            72.3.137.170	# aa.com, batch1.us.confirmit.com
+                            72.3.137.171	# aa.com, batch2.us.confirmit.com
+                            72.3.137.172	# aa.com, batch3.us.confirmit.com
+                            72.3.137.175	# aa.com, batch4.us.confirmit.com
+                          63.241.211.130	# aa.com, bms01.researchnowsurveys.com
+                          63.241.211.131	# aa.com, bms02.researchnowsurveys.com
+                          63.241.211.132	# aa.com, bms03.researchnowsurveys.com
+                            12.54.128.15	# aa.com, mailgate2.usairways.com, usairways.com
+                           162.92.176.23	# aa.com, usairways.com
+                           192.195.66.26	# abc.com
+                           192.195.66.28	# abc.com
+                           192.195.66.36	# abc.com
+                          204.128.192.17	# abc.com
+                          204.128.192.36	# abc.com
+                          204.128.192.43	# abc.com
+                            209.66.78.41	# about.com
+                            63.251.29.41	# about.com
+                           216.112.252.7	# about.com
+                           38.109.104.41	# about.com
+                          207.241.148.39	# about.com
+                          207.241.148.60	# about.com
+                          207.241.148.64	# about.com
+                          207.241.148.71	# about.com
+                          208.185.199.15	# about.com
+                          216.112.252.10	# about.com
+                          216.112.252.45	# about.com
+                         207.241.148.226	# about.com
+                         207.241.148.227	# about.com
+                         207.241.149.197	# about.com
+                         207.241.149.198	# about.com
+                         216.112.252.205	# about.com
+                           65.199.152.39	# acs-inc.com
+                         63.101.151.0/28	# acs-inc.com
+                           38.100.101.30	# addisonsearch.com
+                          173.38.212.150	# aer-mx-01.cisco.com
+                          91.220.196.211	# aibo.runbox.com, mx.runbox.com, runbox.com
+                          91.220.196.212	# aibo1.runbox.com
+                          207.46.163.215	# alaskaair-com.mail.protection.outlook.com, flyfrontier-com.mail.protection.outlook.com, mls-lib-ok-us.mail.protection.outlook.com, saddleback-com.mail.protection.outlook.com
+                            63.236.116.5	# alaskaair.com
+                           159.49.253.16	# alaskaair.com
+                         199.66.248.0/22	# alaskaair.com
+                          173.37.147.230	# alln-mx-01.cisco.com
+              2001:420:1201:6::ad25:93e6	# alln-mx-01.cisco.com
+                          173.194.192.27	# alt1.aspmx.l.google.com, aspmx2.googlemail.com
+                  2607:f8b0:4001:c0e::1a	# alt1.aspmx.l.google.com, aspmx2.googlemail.com
+                  2607:f8b0:4001:c0e::1b	# alt1.aspmx.l.google.com, aspmx2.googlemail.com
+                          173.194.219.26	# alt2.aspmx.l.google.com
+                  2607:f8b0:4002:c03::1b	# alt2.aspmx.l.google.com
+                          173.194.219.27	# alt2.aspmx.l.google.com, aspmx3.googlemail.com
+                  2607:f8b0:400d:c07::1b	# alt3.aspmx.l.google.com
+                          173.194.204.27	# alt3.aspmx.l.google.com, aspmx4.googlemail.com
+                           74.125.141.27	# alt4.aspmx.l.google.com, aspmx5.googlemail.com
+                  2607:f8b0:400c:c06::1a	# alt4.aspmx.l.google.com, aspmx5.googlemail.com
+                  2607:f8b0:400c:c06::1b	# alt4.aspmx.l.google.com, aspmx5.googlemail.com
+                            38.71.197.24	# alz.org
+                            38.71.197.40	# alz.org
+                          199.38.220.136	# alz.org
+                       66.231.180.192/27	# alz.org
+                         74.125.148.0/22	# alz.org, spf.groupon.com, spf.orbitz.com, spf.postini.com
+                         74.125.244.0/22	# alz.org, spf.postini.com
+                           54.240.0.0/18	# amazonses.com
+                        199.127.232.0/22	# amazonses.com
+                        199.255.192.0/22	# amazonses.com
+                         198.200.171.236	# ameritrade.com
+                             66.43.18.90	# ancestry.com
+                            66.43.18.169	# ancestry.com
+                            66.43.22.102	# ancestry.com
+                            66.43.23.195	# ancestry.com
+                           66.43.16.0/20	# ancestry.com
+                           192.116.242.7	# apache-7.startcom.org, mta1.startcom.org
+                            72.52.128.73	# apache.com
+                          204.62.114.210	# app-mx.37signals.com
+                              17.0.0.0/8	# apple.com
+                             74.52.60.98	# archive.org
+                            208.70.31.42	# archive.org
+                           207.241.224.2	# archive.org
+                           207.241.224.6	# archive.org, mail.archive.org
+                            74.125.20.27	# aspmx.l.google.com
+                            74.125.25.27	# aspmx.l.google.com
+                           173.194.79.26	# aspmx.l.google.com
+                  2001:4860:400b:c01::1b	# aspmx.l.google.com
+                  2607:f8b0:400e:c04::1a	# aspmx.l.google.com
+                  2607:f8b0:400e:c04::1b	# aspmx.l.google.com
+                         198.245.81.0/24	# aspmx.pardot.com, s._spf.pardot.com
+                         199.122.123.192	# aspmx.pardot.com, s._spf.pardot.com
+                        136.147.176.0/24	# aspmx.pardot.com, s._spf.pardot.com
+                      199.122.123.188/30	# aspmx.pardot.com, s._spf.pardot.com
+                           69.28.218.148	# aspmx.sailthru.com
+                           69.28.218.149	# aspmx.sailthru.com
+                           69.28.218.154	# aspmx.sailthru.com
+                           69.28.218.155	# aspmx.sailthru.com
+                           69.28.218.157	# aspmx.sailthru.com
+                          65.39.215.0/24	# aspmx.sailthru.com
+                         192.64.236.0/24	# aspmx.sailthru.com
+                         192.64.237.0/24	# aspmx.sailthru.com
+                         64.34.47.128/27	# aspmx.sailthru.com
+                         64.34.57.192/26	# aspmx.sailthru.com
+                         69.60.15.160/27	# aspmx.sailthru.com
+                        173.228.155.0/24	# aspmx.sailthru.com
+                          173.194.192.26	# aspmx2.googlemail.com
+                  2607:f8b0:4002:c03::1a	# aspmx3.googlemail.com
+                          173.194.204.26	# aspmx4.googlemail.com
+                  2607:f8b0:400d:c07::1a	# aspmx4.googlemail.com
+                  2607:f8b0:400d:c09::1b	# aspmx4.googlemail.com
+                           74.125.141.26	# aspmx5.googlemail.com
+                           192.185.2.202	# astro.websitewelcome.com
+                         198.71.244.0/27	# auth.madmimi.com, pass.madmimi.com
+                         198.71.245.0/27	# auth.madmimi.com, pass.madmimi.com
+                         198.71.246.0/27	# auth.madmimi.com, pass.madmimi.com
+                         64.22.85.224/27	# auth.madmimi.com, pass.madmimi.com
+                        75.127.76.224/27	# auth.madmimi.com, pass.madmimi.com
+                      216.180.230.224/27	# auth.madmimi.com, pass.madmimi.com
+                           65.114.230.67	# az-courier.osgbilling.com
+                            174.36.14.10	# azuresend.com
+                          174.37.234.234	# azuresend.com
+                          213.206.105.73	# azuresend.com
+                         174.36.15.16/29	# azuresend.com
+                       174.37.242.120/29	# azuresend.com
+                       208.43.221.192/29	# azuresend.com
+                       213.206.105.68/30	# azuresend.com
+                       213.206.105.74/31	# azuresend.com
+                          67.228.37.4/30	# b._spf.pardot.com, spf1.exacttarget.com
+                        74.86.129.240/30	# b._spf.pardot.com, spf1.exacttarget.com
+                        74.86.131.208/30	# b._spf.pardot.com, spf1.exacttarget.com
+                        74.86.132.208/30	# b._spf.pardot.com, spf1.exacttarget.com
+                        74.86.160.160/30	# b._spf.pardot.com, spf1.exacttarget.com
+                        74.86.236.240/30	# b._spf.pardot.com, spf1.exacttarget.com
+                       174.36.114.128/30	# b._spf.pardot.com, spf2.exacttarget.com
+                       174.36.114.140/30	# b._spf.pardot.com, spf2.exacttarget.com
+                         208.43.21.28/30	# b._spf.pardot.com, spf4.exacttarget.com
+                         208.43.21.64/29	# b._spf.pardot.com, spf4.exacttarget.com
+                         208.43.21.72/30	# b._spf.pardot.com, spf4.exacttarget.com
+                         204.62.114.0/23	# basecamphq.com
+                           69.48.252.158	# bcbs.com
+                            129.41.78.89	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                            208.79.27.99	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                            208.85.48.26	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                           198.190.13.32	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                           208.79.27.100	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                           65.175.70.133	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                          209.117.52.216	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                          66.180.165.126	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                         205.172.134.161	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                         205.172.134.162	# bcbsil.com, bcbsok.com, bcbstx.com, hcsc.net
+                            206.71.18.26	# bdmrib01.metavante.com
+                            206.71.18.24	# bdmrib02.metavante.com
+                            206.71.18.25	# bdmrib03.metavante.com
+                            206.71.18.20	# bdmrob01.metavante.com
+                          206.132.1.0/24	# bfi0.com
+                          206.132.3.0/24	# bfi0.com
+                          216.33.63.0/24	# bfi0.com
+                          216.35.62.0/25	# bfi0.com
+                         142.54.200.0/23	# bfi0.com
+                         142.54.246.0/24	# bfi0.com
+                         208.70.142.0/23	# bfi0.com
+                         93.191.146.0/23	# bfi0.com
+                        209.67.13.128/25	# bfi0.com
+                          195.13.11.0/24	# bgc.spf.secure-mail.be
+                         213.181.44.0/23	# bgc.spf.secure-mail.be
+                        195.13.15.224/28	# bgc.spf.secure-mail.be
+                       213.181.45.224/28	# bgc.spf.secure-mail.be
+                         209.217.235.178	# bigdog.runbox.net
+                           71.74.57.0/24	# biz._spf.rr.com
+                         75.180.133.0/24	# biz._spf.rr.com
+                          206.51.26.0/24	# blackberryv.comodo.com, tmo.blackberry.net
+                          216.9.240.0/20	# blackberryv.comodo.com, tmo.blackberry.net
+                         193.109.81.0/24	# blackberryv.comodo.com, tmo.blackberry.net
+                         204.187.87.0/24	# blackberryv.comodo.com, tmo.blackberry.net
+                           207.67.50.254	# bluehornet.com
+                          66.192.77.0/24	# bluehornet.com
+                          81.21.145.0/24	# bluehornet.com
+                         173.255.196.219	# bluehornet.com
+                         208.79.248.0/21	# bluehornet.com
+                         208.79.250.0/24	# bluehornet.com
+                         208.82.174.0/24	# bluehornet.com
+                         209.87.176.0/20	# bluehornet.com
+                         216.54.194.0/24	# bluehornet.com
+                         67.216.224.0/20	# bluehornet.com
+                        207.250.251.0/24	# bluehornet.com
+                            50.87.0.0/16	# bluehost.com
+                           67.20.64.0/18	# bluehost.com
+                           69.64.153.133	# bluehost.com
+                           69.89.16.0/20	# bluehost.com
+                           74.220.195.50	# bluehost.com
+                          173.254.0.0/17	# bluehost.com
+                          67.222.32.0/19	# bluehost.com
+                          69.195.64.0/18	# bluehost.com
+                          70.40.192.0/19	# bluehost.com
+                         66.147.240.0/20	# bluehost.com
+                         74.220.192.0/19	# bluehost.com
+                           38.113.1.0/24	# boa.com
+                          38.113.20.0/24	# boa.com
+                         65.254.224.0/19	# boa.com
+                            5.57.20.0/23	# booking.com
+                          154.54.96.0/28	# booking.com
+                          212.71.239.244	# booking.com
+                         91.195.237.0/25	# booking.com
+                            216.27.93.13	# bounces001.icpbounce.com
+                          213.199.154.23	# britishairways-com.mail.protection.outlook.com
+                          213.199.154.87	# britishairways-com.mail.protection.outlook.com
+                         163.166.43.0/24	# britishairways.com
+                        163.166.134.0/24	# britishairways.com
+                          192.185.13.225	# bromkins.net
+                           204.15.170.57	# bullhorn.com
+                           95.142.10.240	# bysense.com.br
+                           95.142.10.233	# bysense.com.br, email.bysense.com.br
+                             67.72.12.29	# c._sid.ebay.com
+                            62.22.61.131	# c._sid.ebay.com
+                            64.68.79.253	# c._sid.ebay.com
+                           12.155.144.75	# c._sid.ebay.com
+                           64.94.204.222	# c._sid.ebay.com
+                          63.104.149.126	# c._sid.ebay.com
+                          66.135.215.134	# c._sid.ebay.com
+                       216.113.172.64/29	# c._sid.ebay.com
+                         193.28.178.0/25	# c._sid.ebay.com, c._spf.ebay.com
+                        216.113.160.0/24	# c._spf.ebay.com
+                        216.113.172.0/25	# c._spf.ebay.com
+                        216.113.175.0/24	# c._spf.ebay.com, c3._sid.ebay.com
+                          174.36.84.8/30	# c._spf.pardot.com
+                         174.36.84.12/30	# c._spf.pardot.com
+                        207.67.98.208/28	# c._spf.pardot.com
+                         174.36.84.16/29	# c._spf.pardot.com, spf2.exacttarget.com
+                         174.36.84.32/29	# c._spf.pardot.com, spf2.exacttarget.com
+                        174.36.84.144/29	# c._spf.pardot.com, spf2.exacttarget.com
+                        174.36.84.240/29	# c._spf.pardot.com, spf2.exacttarget.com
+                        174.36.85.248/30	# c._spf.pardot.com, spf2.exacttarget.com
+                       174.36.114.148/30	# c._spf.pardot.com, spf2.exacttarget.com
+                       174.36.114.152/29	# c._spf.pardot.com, spf2.exacttarget.com
+                              80.93.9.10	# c2._sid.ebay.com
+                            209.63.28.11	# c2._sid.ebay.com
+                            212.110.10.2	# c2._sid.ebay.com
+                           203.49.69.114	# c2._sid.ebay.com
+                           210.80.80.136	# c2._sid.ebay.com
+                          195.234.136.12	# c2._sid.ebay.com
+                         212.147.136.123	# c2._sid.ebay.com
+                        216.113.167.0/24	# c2._sid.ebay.com
+                             63.80.14.17	# c3._sid.ebay.com
+                             67.72.12.30	# c3._sid.ebay.com
+                            80.66.137.58	# c3._sid.ebay.com
+                           212.208.64.34	# c3._sid.ebay.com
+                           213.219.8.227	# c3._sid.ebay.com
+                           216.177.178.3	# c3._sid.ebay.com
+                           220.248.6.124	# c3._sid.ebay.com
+                          217.149.33.234	# c3._sid.ebay.com
+                        216.113.188.0/24	# c3._sid.ebay.com
+                          107.14.168.160	# cdptpa-postmx01.email.rr.com
+                           167.89.19.147	# chargify.com
+                          104.237.133.97	# chargify.com
+                           196.37.232.50	# chase.com
+                          159.53.36.0/24	# chase.com
+                          159.53.46.0/24	# chase.com
+                          159.53.78.0/24	# chase.com
+                         159.53.110.0/24	# chase.com
+                        207.162.225.0/24	# chase.com
+                        207.162.228.0/24	# chase.com
+                        207.162.229.0/24	# chase.com
+                            208.87.34.15	# checkpoint.com
+                          194.29.34.0/24	# checkpoint.com
+                          194.29.38.0/24	# checkpoint.com
+                          209.87.209.100	# checkpoint.com
+                          217.68.10.0/24	# checkpoint.com
+                         184.106.62.0/24	# checkpoint.com
+                         209.87.220.0/24	# checkpoint.com
+                        216.200.240.0/23	# checkpoint.com
+                            50.56.18.178	# checkpoint.com, strong01.checkpoint.com
+                          108.166.20.233	# checkpoint.com, strong02.checkpoint.com
+                            130.80.28.26	# chron.com
+                            69.172.231.4	# chunkhost.com
+                           64.100.0.0/14	# cisco.com
+                          144.254.0.0/16	# cisco.com
+                          173.37.86.0/24	# cisco.com
+                         173.36.130.0/24	# cisco.com
+                         173.38.203.0/24	# cisco.com
+                         64.104.15.96/27	# cisco.com
+                         64.104.206.0/24	# cisco.com
+                         66.187.208.0/20	# cisco.com
+                         72.163.197.0/24	# cisco.com
+                         72.163.7.160/27	# cisco.com
+                        144.254.15.96/27	# cisco.com
+                        173.37.142.64/26	# cisco.com
+                        64.102.19.192/26	# cisco.com
+                       173.36.137.128/26	# cisco.com
+                       173.37.147.224/27	# cisco.com
+                       173.38.212.128/27	# cisco.com
+                           216.82.254.19	# cluster6.us.messagelabs.com
+                           216.82.254.20	# cluster6.us.messagelabs.com
+                          216.82.241.100	# cluster6.us.messagelabs.com
+                          216.82.249.212	# cluster6.us.messagelabs.com
+                          216.82.251.230	# cluster6a.us.messagelabs.com
+                          85.158.139.103	# cluster6a.us.messagelabs.com
+                        72.32.154.224/27	# collab.net
+                         69.252.207.0/25	# comcast.net
+                       96.114.154.128/25	# comcast.net
+                          204.124.83.141	# comm0.conformal.com
+                    2620:d:8000:201::141	# comm0.conformal.com
+                            91.196.95.17	# comodo.od.ua
+                            91.196.95.33	# comodo.od.ua
+                         178.255.87.0/24	# comodo.od.ua
+                          170.218.248.44	# corepmail01.progressive.com
+                          170.218.236.43	# corwpmail01.progressive.com
+                         68.230.240.0/24	# cox.net
+                         68.230.241.0/24	# cox.net
+                         68.99.120.32/27	# coxinet.net
+                        208.82.236.96/28	# craigslist.org
+                        208.82.238.96/28	# craigslist.org
+                        207.67.98.192/27	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, exacttarget.com, spf4.exacttarget.com
+                          64.132.88.0/23	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf0.exacttarget.com
+                          64.132.92.0/24	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf0.exacttarget.com
+                          66.231.80.0/20	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf0.exacttarget.com
+                         68.232.192.0/20	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf1.exacttarget.com
+                          207.67.38.0/24	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf3.exacttarget.com
+                         198.245.80.0/20	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf3.exacttarget.com
+                        136.147.128.0/20	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf3.exacttarget.com
+                        136.147.176.0/20	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf3.exacttarget.com
+                        199.122.120.0/21	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf3.exacttarget.com
+                          209.43.22.0/28	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf4.exacttarget.com
+                         207.250.68.0/24	# cust-senderid.exacttarget.com, cust-spf.exacttarget.com, spf4.exacttarget.com
+                            12.15.136.26	# cvs.com
+                         204.124.83.0/25	# cyphertite.com
+                          216.113.172.68	# data.ebay.com
+                         158.151.208.120	# dbpwirnap01.dnb.com
+                         158.151.208.121	# dbpwirnap02.dnb.com
+                          158.151.214.66	# dbrwirnap01.dnb.com
+                          158.151.214.67	# dbrwirnap02.dnb.com
+                            83.141.4.210	# dd-wrt.com
+                         83.141.4.208/28	# dd-wrt.com
+                       217.113.179.64/26	# dd-wrt.com
+                      217.113.177.184/29	# dd-wrt.com
+                           69.20.127.139	# delivery.net
+                           69.20.127.148	# delivery.net
+                          209.11.136.180	# delivery.net
+                         209.10.200.0/26	# delivery.net
+                         209.11.136.0/22	# delivery.net
+                         209.11.164.0/22	# delivery.net
+                         67.59.179.32/29	# delivery.net
+                        198.160.112.0/21	# delivery.net
+                        209.10.220.64/28	# delivery.net
+                       209.11.133.128/26	# delivery.net
+                             98.158.19.7	# dell.com
+                            64.88.186.40	# dell.com
+                           199.30.95.252	# dell.com
+                           74.52.181.211	# dell.com
+                          211.130.110.88	# dell.com
+                         143.166.82.0/24	# dell.com
+                        143.166.224.0/24	# dell.com
+                        202.188.162.0/26	# dell.com
+                       143.166.85.192/26	# dell.com
+                      143.166.148.192/26	# dell.com
+                            208.70.194.3	# delta-spf.niceondemand.com
+                           69.59.135.235	# deltadentalok.org
+                       209.248.239.32/27	# deltadentalok.org
+                       66.210.190.192/27	# deltadentalok.org
+                           208.53.51.142	# dev.familylink.com
+                           72.55.143.215	# disco.gogo6.com, mx3.gogo6.com
+                     2001:5c0:1000:11::2	# disco.gogo6.com, mx3.gogo6.com
+                            68.233.77.18	# dnb.com
+                           12.129.29.143	# dnb.com
+                           158.106.68.11	# dnb.com
+                           165.193.97.93	# dnb.com
+                           205.216.45.11	# dnb.com
+                           209.66.117.11	# dnb.com
+                           72.19.252.170	# dnb.com
+                          209.234.229.11	# dnb.com
+                          209.234.229.51	# dnb.com
+                         209.112.4.10/31	# dnb.com
+                         220.130.152.173	# dnb.com
+                         72.14.161.10/31	# dnb.com
+                        204.92.22.200/30	# dnb.com
+                       158.151.214.66/31	# dnb.com
+                       202.129.242.64/31	# dnb.com
+                      158.151.208.120/31	# dnb.com
+                           66.150.31.125	# dnb.com, sharebuilder.com
+                          209.234.239.51	# dnb.com, sharebuilder.com
+                         208.94.145.0/24	# dnsmadeeasy.com
+                         208.94.146.0/23	# dnsmadeeasy.com
+                           107.14.64.159	# dnvrco-postmx01.email.rr.com
+                           149.239.48.15	# dpdhl._spf.dhl.com
+                           149.239.48.16	# dpdhl._spf.dhl.com
+                           194.1.155.240	# dpdhl._spf.dhl.com
+                         165.72.200.0/24	# dpdhl._spf.dhl.com
+                         199.40.206.0/26	# dpdhl._spf.dhl.com
+                        149.239.170.0/24	# dpdhl._spf.dhl.com
+                         68.232.128.0/19	# dpdhl._spf.dhl.com, spf-2.domaincontrol.com
+                          205.189.0.0/25	# dropbox.com
+                         199.47.216.0/22	# dropbox.com
+                        108.160.160.0/20	# dropbox.com
+                       2620:c6:8000::/48	# dropbox.com
+                      2001:470:841d::/64	# dropbox.com
+                           50.18.192.250	# duckduckgo.com
+                           50.18.192.251	# duckduckgo.com
+                           54.215.176.19	# duckduckgo.com
+                           96.227.124.36	# duckduckgo.com
+                          173.239.79.193	# dummy1.eff.org
+                          173.239.79.223	# dummy2.eff.org
+                          199.66.248.153	# e-gate1-2.triseptsolutions.com
+                          66.179.68.0/26	# e2ma.net
+                         128.136.37.0/24	# e2ma.net
+                         66.179.102.0/25	# e2ma.net
+                       66.179.147.160/27	# e2ma.net
+                         206.225.167.244	# east.smtp.exch027.serverdata.net
+                          204.15.118.161	# edge.walgreens.com
+                          67.212.170.242	# eff.org
+                         205.201.137.229	# email.influitive.com
+                          185.4.120.0/24	# emarsys.net
+                          185.4.122.0/24	# emarsys.net
+                         195.54.172.0/23	# emarsys.net
+                         91.194.248.0/23	# emarsys.net
+                         91.211.240.0/24	# emarsys.net
+                         91.211.242.0/24	# emarsys.net
+                         91.211.243.0/24	# emarsys.net
+                        217.175.193.0/24	# emarsys.net
+                        217.175.194.0/24	# emarsys.net
+                        217.175.195.0/24	# emarsys.net
+                        217.175.196.0/24	# emarsys.net
+                         174.136.104.219	# entp-2.cust.arpnetworks.com
+                       2607:f2f8:a3c4::3	# entp-2.cust.arpnetworks.com
+                           143.166.83.21	# equallogic.com
+                          143.166.224.54	# equallogic.com
+                          143.166.82.159	# equallogic.com
+                         143.166.224.254	# equallogic.com
+                          170.146.224.15	# es._spf.adp.com
+                          170.146.226.15	# es._spf.adp.com
+                         170.146.220.231	# es._spf.adp.com
+                         170.146.220.234	# es._spf.adp.com
+                         170.146.221.231	# es._spf.adp.com
+                         170.146.221.234	# es._spf.adp.com
+                       170.146.220.14/31	# es._spf.adp.com
+                       170.146.220.16/31	# es._spf.adp.com
+                       170.146.221.14/31	# es._spf.adp.com
+                       170.146.221.16/31	# es._spf.adp.com
+                       170.146.224.16/31	# es._spf.adp.com
+                       170.146.226.16/31	# es._spf.adp.com
+                      170.146.220.232/31	# es._spf.adp.com
+                      170.146.221.232/31	# es._spf.adp.com
+                           68.232.140.79	# esa1.cres.iphmx.com
+                           68.232.140.57	# esa2.cres.iphmx.com
+                          68.232.135.234	# esa3.cres.iphmx.com
+                          68.232.135.235	# esa4.cres.iphmx.com
+                           166.78.69.169	# esp.github.com
+                           166.78.69.170	# esp.github.com
+                           166.78.71.131	# esp.github.com
+                          192.254.112.60	# esp.github.com
+                          192.254.113.10	# esp.github.com
+                         192.254.113.101	# esp.github.com
+                         192.254.114.176	# esp.github.com
+                         67.228.50.54/31	# esp.github.com
+                       192.254.112.98/31	# esp.github.com
+                      173.193.132.134/31	# esp.github.com
+                             50.17.189.7	# eventbrite.com
+                            50.17.225.36	# eventbrite.com
+                            75.101.134.6	# eventbrite.com
+                           184.106.14.63	# eventbrite.com
+                           184.73.240.63	# eventbrite.com
+                           50.16.194.113	# eventbrite.com
+                           50.17.185.155	# eventbrite.com
+                          104.130.82.105	# eventbrite.com
+                          104.130.82.106	# eventbrite.com
+                          104.130.82.107	# eventbrite.com
+                          104.130.82.108	# eventbrite.com
+                          174.129.243.59	# eventbrite.com
+                          184.72.225.123	# eventbrite.com
+                         67.192.22.96/29	# eventbrite.com
+                         67.192.45.96/29	# eventbrite.com
+                        98.129.53.152/29	# eventbrite.com
+                         204.14.232.0/22	# eventbrite.com, spf.postini.com, spf4.comodo.com
+                           166.78.123.79	# evite.com
+                          50.22.19.64/28	# evite.com
+                         50.23.95.176/28	# evite.com
+                       173.193.235.48/28	# evite.com
+                            72.18.216.98	# exacttarget.com
+                          207.250.79.101	# exacttarget.com
+                           206.246.157.1	# exacttarget.com, spf3.exacttarget.com
+                             37.58.58.55	# fallbackmx.spamexperts.eu
+                            37.58.52.144	# fallbackmx.spamexperts.eu
+                           46.165.224.89	# fallbackmx.spamexperts.eu
+                           82.192.90.155	# fallbackmx.spamexperts.eu
+                           94.75.192.135	# fallbackmx.spamexperts.eu
+                           94.75.192.139	# fallbackmx.spamexperts.eu
+                          188.138.26.158	# fallbackmx.spamexperts.eu
+                          188.138.26.163	# fallbackmx.spamexperts.eu
+                          192.96.201.230	# fallbackmx.spamexperts.eu
+                          207.244.64.160	# fallbackmx.spamexperts.eu
+                          207.244.64.186	# fallbackmx.spamexperts.eu
+                          207.244.64.187	# fallbackmx.spamexperts.eu
+                          207.244.83.250	# fallbackmx.spamexperts.eu
+                          46.165.233.176	# fallbackmx.spamexperts.eu
+                          46.165.247.198	# fallbackmx.spamexperts.eu
+                          95.211.112.130	# fallbackmx.spamexperts.eu
+                 2a00:c98:2020:a009:1::1	# fallbackmx.spamexperts.eu
+                 2a00:c98:2030:a00b:1::1	# fallbackmx.spamexperts.eu
+                 2a00:c98:2030:a00c:1::1	# fallbackmx.spamexperts.eu
+                 2a00:c98:2200:a003:5::1	# fallbackmx.spamexperts.eu
+                2001:1af8:4100:a062:1::1	# fallbackmx.spamexperts.eu
+                2001:1af8:4400:a047:5::1	# fallbackmx.spamexperts.eu
+                2001:1af8:4400:a047:6::1	# fallbackmx.spamexperts.eu
+                2001:1af8:4500:a050:2::1	# fallbackmx.spamexperts.eu
+                2001:1af8:4600:a00d:2::1	# fallbackmx.spamexperts.eu
+                2604:9a00:2010:a004:3::1	# fallbackmx.spamexperts.eu
+                2604:9a00:2010:a066:4::1	# fallbackmx.spamexperts.eu
+                2604:9a00:2010:a066:5::1	# fallbackmx.spamexperts.eu
+                2604:9a00:2010:a066:6::1	# fallbackmx.spamexperts.eu
+                2604:9a00:2100:a00d:7::1	# fallbackmx.spamexperts.eu
+                           209.41.78.140	# familylink.com
+                          208.53.51.0/24	# familylink.com
+                          209.41.78.0/24	# familylink.com
+                          64.122.179.178	# familylink.com
+                             204.9.226.1	# familysearch.org
+                             204.9.230.1	# familysearch.org
+                            207.200.26.3	# familysearch.org
+                            207.200.26.4	# familysearch.org
+                            207.200.26.5	# familysearch.org
+                            66.231.82.15	# familysearch.org
+                        216.49.178.64/26	# familysearch.org
+                          67.225.233.242	# faxzero.com
+                           209.235.31.31	# flyfrontier.com
+                           209.235.31.32	# flyfrontier.com
+                         209.235.31.0/24	# flyfrontier.com
+                         216.241.160.169	# flyfrontier.com
+                         216.241.160.170	# flyfrontier.com
+                           209.11.253.26	# fmvm02.lax10.vpls.net, vpls.net
+                            63.210.44.41	# freedomworks.org
+                            63.210.44.42	# freedomworks.org
+                           38.118.50.172	# freedomworks.org
+                           38.118.50.173	# freedomworks.org
+                           63.210.44.172	# freedomworks.org
+                           63.210.44.174	# freedomworks.org
+                           67.192.105.50	# freedomworks.org
+                           67.192.105.52	# freedomworks.org
+                         184.106.240.145	# freedomworks.org
+                         204.232.242.229	# freedomworks.org
+                          212.117.158.94	# gateway.startcom.org, startcom.org
+                              64.71.5.66	# getsatisfaction.com
+                           208.117.61.28	# gigya.com
+                           23.23.190.218	# gigya.com
+                          74.120.148.141	# gigya.com
+                          74.120.148.142	# gigya.com
+                         192.30.252.0/22	# github.com
+                            12.151.77.31	# godaddy.com
+                            68.233.77.16	# godaddy.com
+                            69.64.33.132	# godaddy.com
+                          170.146.0.0/16	# godaddy.com
+                          174.128.1.0/24	# godaddy.com
+                         182.50.132.0/24	# godaddy.com
+                        173.201.192.0/24	# godaddy.com
+                        173.201.193.0/24	# godaddy.com
+                        184.168.131.0/24	# godaddy.com
+                       207.200.21.144/28	# godaddy.com
+                          208.82.16.0/22	# gogo6.com
+                         216.113.160.244	# gort.ebay.com
+                           50.97.152.243	# gotfreefax.com
+                           74.203.49.123	# hearst.wc09.net
+                           74.203.49.124	# hearst2.wc09.net
+                           74.203.49.125	# hearst3.wc09.net
+                           74.203.49.126	# hearst4.wc09.net
+                            194.65.30.61	# hmail.viatecla.pt, viatecla.com, viatecla.pt
+                            207.11.40.24	# homedepot.com
+                            207.11.40.25	# homedepot.com
+                            50.57.54.137	# homedepot.com
+                            64.124.92.69	# homedepot.com
+                           207.11.27.104	# homedepot.com
+                           207.11.27.105	# homedepot.com
+                           159.49.253.15	# horizonair.com
+                            50.18.124.70	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                            50.18.125.97	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                            50.18.45.249	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                           50.18.121.236	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                           50.18.121.248	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                           50.18.123.221	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                           50.18.125.237	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                           50.18.126.162	# hotels-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                         157.55.9.128/25	# hotmail.com, outlook.com
+                             64.12.79.57	# huffingtonpost.com
+                            64.12.89.186	# huffingtonpost.com
+                           207.200.74.38	# huffingtonpost.com
+                          149.174.107.97	# huffingtonpost.com
+                         149.174.110.102	# huffingtonpost.com
+                           74.205.21.242	# huffingtonpost.com, orbitz.com, spf.clearslide.com, teamaol.com
+                           64.236.0.0/16	# huffingtonpost.com, teamaol.com
+                          149.174.0.0/16	# huffingtonpost.com, teamaol.com
+                             64.98.36.17	# hughes.net
+                           64.98.40.0/22	# hughes.net
+                           209.11.136.89	# i.delivery.net, imh.delivery.net
+                           66.77.16.0/24	# icpbounce.com
+                          216.27.93.0/25	# icpbounce.com
+                          69.166.132.247	# icpbounce.com
+                         216.27.84.64/27	# icpbounce.com
+                         63.236.100.0/24	# icpbounce.com
+                        216.27.86.128/26	# icpbounce.com
+                        64.132.109.48/28	# icpbounce.com
+                        74.202.227.32/27	# icpbounce.com
+                       66.162.193.224/28	# icpbounce.com
+                       66.192.165.128/28	# icpbounce.com
+                      207.254.213.192/26	# icpbounce.com
+                             66.111.4.70	# in1-smtp.messagingengine.com
+                             66.111.4.71	# in1-smtp.messagingengine.com
+                             66.111.4.72	# in1-smtp.messagingengine.com
+                             66.111.4.73	# in1-smtp.messagingengine.com
+                             66.111.4.74	# in1-smtp.messagingengine.com
+                             66.111.4.75	# in1-smtp.messagingengine.com
+                          82.221.106.241	# in2-smtp.messagingengine.com
+                          63.241.211.113	# inbound01.researchnow.com
+                          63.241.211.114	# inbound02.researchnow.com
+                          63.241.211.115	# inbound03.researchnow.com
+                           165.20.110.90	# ipmailtst.nmh.org
+                            104.131.5.64	# iqnection.com
+                          195.238.4.0/22	# ispmail.spf.secure-mail.be
+                         195.238.20.0/24	# ispmail.spf.secure-mail.be
+                         195.238.22.0/24	# ispmail.spf.secure-mail.be
+                            130.80.29.78	# jeckel.chron.com
+                           208.90.58.101	# jira.sco.cisco.com
+                           204.13.8.0/22	# kattare.com
+                          2607:f008::/32	# kattare.com
+                          69.59.195.0/24	# kattare.com
+                         208.95.104.0/22	# kattare.com
+                         65.212.180.0/23	# kattare.com
+                           206.79.6.0/24	# kintera.com
+                         206.190.70.0/27	# kintera.com
+                            66.186.59.90	# krypt.com
+                           50.23.224.106	# krypt.com
+                         74.222.172.0/27	# krypt.com
+                            67.198.196.2	# krypt.com, vpls.net
+                         209.11.241.0/25	# krypt.com, vpls.net
+                         74.222.174.0/25	# krypt.com, vpls.net
+                             64.1.231.66	# kubra.com
+                           208.27.250.73	# kubra.com
+                           65.44.155.226	# kubra.com
+                           67.90.152.174	# kubra.com
+                          209.112.4.0/24	# kubra.com
+                          216.65.205.139	# kubra.com
+                          64.124.236.201	# kubra.com
+                          72.14.161.0/24	# kubra.com
+                         158.106.68.0/24	# kubra.com
+                         205.216.45.0/24	# kubra.com
+                         209.66.117.0/24	# kubra.com
+                             46.16.75.88	# lastmx.spamexperts.net
+                           208.94.39.223	# lastmx.spamexperts.net
+                          108.174.3.0/24	# linkedin.com
+                          108.174.6.0/24	# linkedin.com
+                         199.101.161.130	# linkedin.com
+                        199.101.162.0/25	# linkedin.com
+                  2620:109:c003:104::/64	# linkedin.com
+                  2620:109:c006:104::/64	# linkedin.com
+                  2620:109:c00d:104::/64	# linkedin.com
+                           107.170.40.56	# linux.org
+                           208.53.51.242	# lists.familylink.com
+                            8.24.206.168	# ljbtc.com
+                            63.138.85.77	# ljbtc.com, mail.ljbtc.com
+                             8.31.233.74	# ljbtc.com.1.0001.arsmtp.com
+                             8.31.233.75	# ljbtc.com.2.0001.arsmtp.com
+                             64.94.26.44	# lms.bcbs.com
+                         206.112.186.205	# loaidlmxp01.lowes.com
+                         206.112.186.206	# loaidlmxp02.lowes.com
+                         216.113.175.103	# lore.ebay.com
+                             166.78.8.19	# lowes.com
+                            66.45.42.177	# m-gw.kintera.org
+                        213.128.137.0/27	# maemo.org
+                           108.174.3.215	# mail-c.linkedin.com
+                  2620:109:c006:104::215	# mail-c.linkedin.com
+                            192.5.14.160	# mail-ext.rand.org
+                           130.154.3.161	# mail-ext.rand.org
+                           65.212.180.61	# mail-in.kattare.com
+                           65.212.180.62	# mail-in2.kattare.com
+                           65.212.180.63	# mail-in2.kattare.com
+                           65.212.180.64	# mail-in2.kattare.com
+                           65.212.180.65	# mail-in2.kattare.com
+                           65.212.180.66	# mail-in2.kattare.com
+                           38.100.101.26	# mail.addisonsearch.com, mail02.addisonsearch.com
+                            208.79.88.12	# mail.arpnetworks.com
+                          209.167.231.14	# mail.en25.com
+                          205.172.134.28	# mail.hcsc.net
+                           216.52.242.16	# mail.linkedin.com
+                          213.128.137.23	# mail.maemo.org
+                           37.128.131.35	# mail.memset.com
+                            209.5.242.19	# mail.myfax.com
+                            194.72.238.7	# mail.netcraft.com
+                           204.15.241.58	# mail.plaxo.com
+                           209.139.231.4	# mail.pnimedia.com
+                           94.136.31.133	# mail.proxmox.com
+                             194.65.30.5	# mail.viatecla.pt, mail1.viatecla.pt, viatecla.com, viatecla.pt
+                          194.126.200.60	# mail.wuala.com
+                          50.57.199.0/27	# mail.zendesk.com, zendesk.com
+                        184.106.40.64/28	# mail.zendesk.com, zendesk.com
+                       173.203.47.128/27	# mail.zendesk.com, zendesk.com
+                       173.203.47.160/27	# mail.zendesk.com, zendesk.com
+                       184.106.12.184/29	# mail.zendesk.com, zendesk.com
+                       198.61.149.152/29	# mail.zendesk.com, zendesk.com
+                           195.211.48.25	# mail00.nimbuzz.com
+                           195.211.48.33	# mail01.nimbuzz.com
+                         206.111.255.138	# mail01.reply.com
+                           195.211.48.34	# mail02.nimbuzz.com
+                          173.209.244.59	# mail02.reply.com, mail03.reply.com, mail04.reply.com, mail05.reply.com, mail06.reply.com
+                          91.199.212.133	# mail1.comodogroup.com, sgmail.comodogroup.com
+                          168.244.164.18	# mail1.lowes.com
+                          206.29.177.243	# mail1.t-mobile.com
+                          206.29.177.244	# mail1.t-mobile.com
+                          206.29.177.245	# mail1.t-mobile.com
+                          206.29.177.246	# mail1.t-mobile.com
+                          206.29.177.247	# mail1.t-mobile.com
+                           208.94.147.82	# mail1.tiggee.com
+                          199.107.16.140	# mail1.uscourts.gov
+                         168.244.164.167	# mail10.lowes.com
+                          209.249.181.15	# mail10.netgear.com
+                         168.244.164.168	# mail11.lowes.com
+                         168.244.164.170	# mail12.lowes.com
+                         168.244.164.171	# mail13.lowes.com
+                         168.244.164.172	# mail14.lowes.com
+                            208.79.88.14	# mail2.arpnetworks.com
+                     2607:f2f8:0:101::14	# mail2.arpnetworks.com
+                          173.239.79.204	# mail2.eff.org
+                            208.79.27.34	# mail2.hcsc.net
+                          168.244.164.16	# mail2.lowes.com
+                          37.128.134.234	# mail2.memset.com
+                          83.222.235.178	# mail2.netcraft.com, netcraft.com
+                          206.29.181.243	# mail2.t-mobile.com
+                          206.29.181.244	# mail2.t-mobile.com
+                          206.29.181.245	# mail2.t-mobile.com
+                          206.29.181.246	# mail2.t-mobile.com
+                          206.29.181.247	# mail2.t-mobile.com
+                             194.65.30.2	# mail2.viatecla.pt, viatecla.com, viatecla.pt
+                         168.244.164.160	# mail3.lowes.com
+                           64.71.170.106	# mail3.memset.com
+                           63.241.40.240	# mail3.uscourts.gov
+                         168.244.164.161	# mail4.lowes.com
+                         168.244.164.162	# mail5.lowes.com
+                         168.244.164.163	# mail6.lowes.com
+                         168.244.164.164	# mail7.lowes.com
+                         168.244.164.165	# mail8.lowes.com
+                         168.244.164.166	# mail9.lowes.com
+                           54.214.38.255	# mailcl.docusign.net, mails-1951040932.us-west-2.elb.amazonaws.com
+                          54.244.126.193	# mailcl.docusign.net, mails-1951040932.us-west-2.elb.amazonaws.com
+                            64.196.161.5	# maile.osgbilling.com
+                           64.179.27.250	# maile.osgbilling.com
+                          74.222.171.247	# mailfw1.smf1.vpls.net
+                          74.222.171.249	# mailfw2.smf1.vpls.net
+                           162.92.176.35	# mailgate3.usairways.com
+                           12.151.34.250	# mailgw1.netgear.com
+                           209.249.181.7	# mailgw2.netgear.com
+                           206.16.42.151	# mailgw3.netgear.com
+                           206.108.40.19	# mailin.intuit.com
+                          205.172.134.25	# mailout.hcsc.net
+                          167.161.100.28	# mailoutbound.oge.com, oge.com
+                         167.161.100.107	# mailoutbound.oge.com, oge.com
+                         167.161.100.108	# mailoutbound.oge.com, oge.com
+                         167.161.100.109	# mailoutbound.oge.com, oge.com
+                         167.161.100.110	# mailoutbound.oge.com, oge.com
+                         167.161.101.113	# mailoutbound.oge.com, oge.com
+                           72.32.49.0/24	# mailseat.com
+                          72.32.252.0/24	# mailseat.com
+                          72.32.253.0/24	# mailseat.com
+                           64.89.44.0/23	# mailsenders.netsuite.com
+                        167.216.128.0/22	# mailsenders.netsuite.com
+                          170.224.177.96	# maytag.com
+                          162.253.133.15	# mbob.nabble.com, nabble.com
+                          216.203.33.178	# message1-senderid-inc.exacttarget.com
+                          216.203.33.179	# message1-senderid-inc.exacttarget.com
+                            64.20.241.45	# message1-senderid-inc.exacttarget.com, spf0.exacttarget.com
+                          129.41.169.249	# message1-senderid-inc.exacttarget.com, spf3.exacttarget.com
+                           216.203.30.55	# message1-senderid-inc.exacttarget.com, spf4.exacttarget.com
+                     fd92:59f3:510e::/48	# metrolibrary.com
+                             70.32.92.44	# metrolibrary.org
+                         164.58.253.0/24	# metrolibrary.org
+                           164.58.86.101	# metrolibrary.org, mls.lib.ok.us
+                            147.243.1.47	# microsoft.com
+                            147.243.1.48	# microsoft.com
+                           147.243.1.153	# microsoft.com
+                          147.243.128.24	# microsoft.com
+                          147.243.128.26	# microsoft.com
+                              66.43.42.5	# misn.com
+                            66.43.42.245	# misn.com
+                              66.43.32.5	# misn.com, mx.misn.com, smtp-01.misn.com
+                           37.188.97.188	# mktomail.com
+                           72.3.185.0/24	# mktomail.com
+                          2a04:35c0::/29	# mktomail.com
+                          72.32.154.0/24	# mktomail.com
+                          72.32.217.0/24	# mktomail.com
+                          72.32.243.0/24	# mktomail.com
+                         185.28.196.0/22	# mktomail.com
+                         192.28.128.0/18	# mktomail.com
+                         199.15.212.0/22	# mktomail.com
+                         94.236.119.0/26	# mktomail.com
+                        103.237.104.0/22	# mktomail.com
+                           164.58.240.50	# mls.lib.ok.us
+                          174.129.209.60	# mobile.familylink.com
+                        216.228.224.0/20	# morningstar.com
+                       216.52.167.192/26	# movietickets.com
+                             87.79.30.25	# mrsc._spf.dhl.com
+                            62.75.247.44	# mrsc._spf.dhl.com
+                           195.66.99.135	# mrsc._spf.dhl.com
+                           217.110.56.56	# mrsc._spf.dhl.com
+                           62.75.244.211	# mrsc._spf.dhl.com
+                           80.67.16.0/20	# mrsc._spf.dhl.com
+                          91.217.141.234	# mrsc._spf.dhl.com
+                          185.54.75.0/24	# msgfocus.com
+                          46.236.37.0/24	# msgfocus.com
+                           50.204.7.0/24	# msnbc.com
+                          3.44.150.24/31	# msnbc.com
+                         3.156.231.94/31	# msnbc.com
+                         4.28.185.160/29	# msnbc.com
+                         65.55.53.192/26	# msnbc.com
+                        207.46.169.48/29	# msnbc.com
+                           199.16.139.42	# mta01-lv.intuit.com
+                           199.16.139.43	# mta01-lv.intuit.com
+                           199.16.139.44	# mta01-lv.intuit.com
+                          192.116.242.28	# mta2.startcom.org
+                          162.253.133.43	# mwork.nabble.com, nabble.com
+                          149.174.216.58	# mx-l01.red.aol.com
+                          149.174.253.65	# mx-m01.red.aol.com
+                              72.35.23.4	# mx.iqemail.net
+                            92.60.176.21	# mx.ns.od.ua
+                         209.134.144.241	# mx.service.govdelivery.com, mx2.service.govdelivery.com
+                            108.59.11.79	# mx.spamexperts.com
+                            198.7.58.151	# mx.spamexperts.com
+                            198.7.58.152	# mx.spamexperts.com
+                            198.7.58.153	# mx.spamexperts.com
+                            198.7.58.155	# mx.spamexperts.com
+                            46.165.223.3	# mx.spamexperts.com
+                           188.138.56.27	# mx.spamexperts.com
+                           199.115.117.7	# mx.spamexperts.com
+                           46.165.223.16	# mx.spamexperts.com
+                           46.165.224.87	# mx.spamexperts.com
+                           82.192.64.142	# mx.spamexperts.com
+                           82.192.64.145	# mx.spamexperts.com
+                           82.192.90.130	# mx.spamexperts.com
+                           85.17.178.207	# mx.spamexperts.com
+                           94.75.244.176	# mx.spamexperts.com
+                          207.244.83.249	# mx.spamexperts.com
+                          46.165.197.238	# mx.spamexperts.com
+                          46.165.222.180	# mx.spamexperts.com
+                          95.211.233.204	# mx.spamexperts.com
+                          95.211.233.206	# mx.spamexperts.com
+                           174.37.51.116	# mx01.postmaster.scribd.com, postmaster.scribd.com
+                           174.37.51.117	# mx02.postmaster.scribd.com, postmaster.scribd.com
+                           174.37.51.118	# mx03.postmaster.scribd.com, postmaster.scribd.com
+                           174.37.51.119	# mx04.postmaster.scribd.com, postmaster.scribd.com
+                          67.231.144.101	# mx0a-000c7201.pphosted.com, mxa-000c7201.gslb.pphosted.com
+                           67.231.149.53	# mx0a-00176a04.pphosted.com
+                           67.231.152.86	# mx0b-000c7201.pphosted.com, mxb-000c7201.gslb.pphosted.com
+                           67.231.157.49	# mx0b-00176a04.pphosted.com, mxa-00176a04.gslb.pphosted.com, mxb-00176a04.gslb.pphosted.com
+                           83.149.75.180	# mx1.binsearch.info
+                            68.232.141.8	# mx1.blackbaud.iphmx.com, mx2.blackbaud.iphmx.com
+                          68.232.135.231	# mx1.blackbaud.iphmx.com, mx2.blackbaud.iphmx.com
+                          68.232.141.100	# mx1.blackbaud.iphmx.com, mx2.blackbaud.iphmx.com
+                          68.232.143.100	# mx1.blackbaud.iphmx.com, mx2.blackbaud.iphmx.com
+                         194.126.200.240	# mx1.cyon.ch
+                           208.80.120.10	# mx1.dnsmadeeasy.com
+                           208.80.120.11	# mx1.dnsmadeeasy.com
+                            108.166.43.1	# mx1.emailsrvr.com
+                          206.190.70.101	# mx1.kintera.com
+                            208.65.144.2	# mx1.smtp.exch031.serverdata.net, mx2.smtp.exch031.serverdata.net, opinionlab.com.inbound10.mxlogic.net, opinionlab.com.inbound10.mxlogicmx.net, prosper.com.inbound10.mxlogic.net, prosper.com.inbound10.mxlogicmx.net
+                            208.65.145.2	# mx1.smtp.exch031.serverdata.net, mx2.smtp.exch031.serverdata.net, opinionlab.com.inbound10.mxlogic.net, opinionlab.com.inbound10.mxlogicmx.net, prosper.com.inbound10.mxlogic.net, prosper.com.inbound10.mxlogicmx.net
+                            208.65.144.3	# mx1.smtp.exch031.serverdata.net, mx2.smtp.exch031.serverdata.net, opinionlab.com.inbound10.mxlogic.net, prosper.com.inbound10.mxlogic.net
+                            208.65.145.3	# mx1.smtp.exch031.serverdata.net, mx2.smtp.exch031.serverdata.net, opinionlab.com.inbound10.mxlogic.net, prosper.com.inbound10.mxlogic.net
+                           68.232.130.31	# mx1.xerox.iphmx.com
+                           68.232.141.29	# mx1.xerox.iphmx.com
+                          68.232.130.184	# mx1.xerox.iphmx.com
+                          68.232.135.190	# mx1.xerox.iphmx.com
+                           68.232.141.28	# mx1.xerox.iphmx.com, mx2.xerox.iphmx.com
+                           68.232.143.61	# mx1.xerox.iphmx.com, mx2.xerox.iphmx.com
+                           68.232.143.66	# mx1.xerox.iphmx.com, mx2.xerox.iphmx.com
+                          68.232.130.216	# mx1.xerox.iphmx.com, mx2.xerox.iphmx.com
+                          208.94.147.129	# mx2.dnsmadeeasy.com
+                            98.129.185.4	# mx2.emailsrvr.com
+                          206.190.70.102	# mx2.kintera.com
+                           68.232.143.63	# mx2.xerox.iphmx.com
+                           68.232.143.64	# mx2.xerox.iphmx.com
+                           68.232.143.65	# mx2.xerox.iphmx.com
+                          68.232.135.102	# mx2.xerox.iphmx.com
+                          208.94.150.197	# mx3.dnsmadeeasy.com
+                          74.217.194.200	# mx3.prosper.com, prosper.com
+                           74.201.155.79	# mx3.zoho.com, spf2.zoho.com
+                            8.27.189.226	# mx4.prosper.com, prosper.com
+                           208.254.39.76	# mxlogic.net
+                          208.78.169.130	# mxlogic.net
+                          208.81.64.0/21	# mxlogic.net
+                         208.65.144.0/21	# mxlogic.net
+                           178.33.199.66	# mxpool1.spamgateway.comodo.com, mxpool2.spamgateway.comodo.com
+                           178.33.199.69	# mxpool1.spamgateway.comodo.com, mxpool2.spamgateway.comodo.com
+                           178.33.199.65	# mxpool2.spamgateway.comodo.com
+                           74.222.172.12	# my.krypt.com
+                          209.5.242.0/24	# myfax.com
+                         204.11.168.0/21	# myfax.com
+                         216.24.224.0/20	# myfax.com
+                        216.13.52.224/27	# myfax.com
+                          162.253.133.72	# nabble.com
+                         162.253.133.210	# nabble.com
+                         194.72.238.0/24	# netcraft.com
+                            67.227.10.19	# netgear.com
+                          203.214.176.28	# netgear.com
+                         208.74.204.0/22	# netgear.com, p._spf.ebay.com
+                          46.226.48.0/21	# nets1.spf.messagelabs.com
+                         196.14.170.0/23	# nets1.spf.messagelabs.com
+                         85.158.136.0/21	# nets1.spf.messagelabs.com
+                         95.131.104.0/21	# nets1.spf.messagelabs.com
+                        193.109.254.0/23	# nets1.spf.messagelabs.com
+                        194.106.220.0/23	# nets1.spf.messagelabs.com
+                        195.245.230.0/23	# nets1.spf.messagelabs.com
+                           103.9.96.0/22	# nets2.spf.messagelabs.com
+                         117.120.16.0/21	# nets2.spf.messagelabs.com
+                         216.82.240.0/20	# nets2.spf.messagelabs.com
+                         62.25.80.152/29	# nets2.spf.messagelabs.com
+                         67.219.240.0/20	# nets2.spf.messagelabs.com
+                       62.208.159.152/29	# nets2.spf.messagelabs.com
+                           70.186.9.0/24	# newsok.com
+                         70.169.215.0/24	# newsok.com
+                        208.145.120.0/24	# newsok.com
+                        208.145.126.0/24	# newsok.com
+                        208.145.127.0/24	# newsok.com
+                            62.189.6.176	# nimbuzz.com
+                          2a04:b900::/63	# nlnetlabs.nl
+                         185.49.140.0/24	# nlnetlabs.nl
+                           165.20.110.91	# nmh-ipmail2.nmh.org, nmh.org
+                          205.141.244.21	# ocmrib01.metavante.com
+                         92.60.176.16/28	# od.ua
+                           67.43.129.252	# offsite.sentex.ca
+                     2607:f3e0:0:80::290	# offsite.sentex.ca
+                         205.162.227.132	# okc.gov
+                         205.162.227.138	# okc.gov
+                         205.162.227.194	# okc.gov
+                            77.53.34.130	# openports.se
+                    2a02:7b8:202:11::130	# openports.se
+                            69.11.216.98	# opinionlab.com
+                          209.252.19.130	# opinionlab.com
+                          63.146.104.132	# opinionlab.com
+                         199.193.204.100	# opinionlab.com
+                          74.63.152.0/24	# orbitz.com
+                            69.20.19.170	# orbitz.com, spf.clearslide.com
+                            69.20.19.171	# orbitz.com, spf.clearslide.com
+                            69.20.22.252	# orbitz.com, spf.clearslide.com
+                            69.20.22.253	# orbitz.com, spf.clearslide.com
+                            69.20.83.154	# orbitz.com, spf.clearslide.com
+                            69.25.103.15	# orbitz.com, spf.clearslide.com
+                            69.25.103.16	# orbitz.com, spf.clearslide.com
+                             144.76.41.7	# otrs.wuala.com
+                          66.45.103.0/25	# outboundmail.convio.net
+                        69.48.252.128/25	# outboundmail.convio.net
+                      209.163.168.192/26	# outboundmail.convio.net
+                           217.20.191.55	# owl.wnet.ua
+                           63.111.28.137	# p._sid.ebay.com, p._spf.ebay.com
+                          72.3.237.64/28	# p._sid.ebay.com, p._spf.ebay.com
+                         204.13.11.48/30	# p._sid.ebay.com, p._spf.ebay.com
+                       194.64.234.128/27	# p._sid.ebay.com, p._spf.ebay.com
+                          46.19.168.0/23	# p._spf.ebay.com
+                            74.112.64.26	# p2._spf.ebay.com
+                           74.63.231.144	# p2._spf.ebay.com
+                           74.63.235.224	# p2._spf.ebay.com
+                       203.145.57.160/27	# p2._spf.ebay.com
+                            50.31.45.232	# pandora.com
+                          208.85.40.0/24	# pandora.com
+                         192.254.126.144	# pandora.com
+                         50.31.44.168/30	# pandora.com
+                        167.89.10.160/28	# pandora.com
+                        198.37.154.96/27	# pandora.com
+                        199.116.167.0/24	# pandora.com
+                       136.146.128.64/28	# pandora.com
+                      192.254.120.128/28	# pandora.com
+                           195.211.48.46	# pantone00.nimbuzz.com
+                           65.254.51.178	# pass.madmimi.com
+                           190.93.240.15	# pastebin.com
+                           190.93.241.15	# pastebin.com
+                           190.93.242.15	# pastebin.com
+                           190.93.243.15	# pastebin.com
+                          141.101.112.16	# pastebin.com
+                          141.123.123.65	# paychex-info.com
+                          141.123.223.65	# paychex-info.com
+                       141.123.120.32/28	# paychex.com
+                       141.123.220.32/28	# paychex.com
+                          173.252.148.16	# phl-smt-04.usa.gov, usa.gov
+                         216.128.240.144	# phx-smt-03.usa.gov, usa.gov
+                           209.20.92.201	# plaxo.com
+                          204.15.241.188	# plaxo.com
+                         204.15.240.0/24	# plaxo.com
+                         66.151.128.0/27	# plaxo.com
+                       66.151.150.144/29	# plaxo.com
+                         199.242.144.219	# pmta-cvs.arlingtonlenssupply.com
+                          209.20.17.0/24	# pnimedia.com
+                          64.114.69.0/24	# pnimedia.com
+                       209.171.37.160/28	# pnimedia.com
+                        174.37.51.112/29	# postmaster.scribd.com, scribd.com
+                         173.0.84.224/28	# pp._spf.paypal.com
+                         173.0.94.244/30	# pp._spf.paypal.com
+                       216.113.188.96/27	# pp._spf.paypal.com
+                       66.211.168.230/31	# pp._spf.paypal.com
+                      173.224.160.128/27	# ppcorp._spf.paypal.com
+                          69.162.98.0/24	# priceline-sendgrid.priceline.com, s._spf.pardot.com, sendgrid.net, spf1.exacttarget.com
+                          74.63.194.0/24	# priceline-sendgrid.priceline.com, sendgrid.net
+                          74.63.202.0/24	# priceline-sendgrid.priceline.com, sendgrid.net
+                          74.63.234.0/24	# priceline-sendgrid.priceline.com, sendgrid.net
+                         174.36.92.96/27	# priceline-sendgrid.priceline.com, sendgrid.net
+                         67.228.50.32/27	# priceline-sendgrid.priceline.com, sendgrid.net
+                         75.126.253.0/24	# priceline-sendgrid.priceline.com, sendgrid.net
+                        174.36.80.208/28	# priceline-sendgrid.priceline.com, sendgrid.net
+                        208.115.214.0/24	# priceline-sendgrid.priceline.com, sendgrid.net
+                       75.126.200.128/27	# priceline-sendgrid.priceline.com, sendgrid.net
+                           208.117.56.98	# priceline-sendgrid1.priceline.com
+                          192.254.116.89	# priceline-sendgrid1.priceline.com
+                          208.117.57.101	# priceline-sendgrid1.priceline.com
+                          208.117.57.106	# priceline-sendgrid1.priceline.com
+                          208.117.57.112	# priceline-sendgrid1.priceline.com
+                          208.117.57.117	# priceline-sendgrid1.priceline.com
+                          74.63.235.0/24	# priceline-sendgrid1.priceline.com, sendgrid.net
+                               64.6.20.5	# priceline-spf.priceline.com
+                               64.6.20.6	# priceline-spf.priceline.com
+                               64.6.30.5	# priceline-spf.priceline.com
+                               64.6.30.6	# priceline-spf.priceline.com
+                            69.195.35.22	# priceline-spf.priceline.com
+                            69.195.35.23	# priceline-spf.priceline.com
+                            72.5.217.196	# pro-vs-smtp1.popmultimedia.com
+                        170.218.236.0/26	# progressive.com
+                        170.218.248.0/26	# progressive.com
+                          74.217.194.214	# prosper.com, sf-inbox.prosper.com
+                          207.223.251.94	# prosper01.managed.contegix.com
+                           94.136.30.181	# proxmox.com
+                        94.136.30.176/28	# proxmox.com
+                        94.136.31.128/28	# proxmox.com
+                      188.165.151.208/28	# proxmox.com
+                         199.16.139.0/24	# quickbase.com
+                         206.108.40.0/21	# quickbase.com
+                            67.20.67.194	# rainguardok.com
+                            72.163.7.166	# rcdn-mx-01.cisco.com
+                             72.32.48.93	# recyclebank.com
+                            204.174.47.5	# recyclebank.com
+                          204.174.47.150	# recyclebank.com
+                          69.172.229.200	# refmail.chunkhost.com
+                           71.74.56.0/24	# rr.com
+                          107.14.73.0/24	# rr.com
+                          24.28.200.0/24	# rr.com
+                          24.28.204.0/24	# rr.com
+                          24.30.203.0/24	# rr.com
+                          24.30.218.0/24	# rr.com
+                         107.14.166.0/24	# rr.com
+                         75.180.132.0/24	# rr.com
+                           74.91.80.0/20	# rsspf.smtp.com
+                           74.202.227.52	# rt.broadwick.com
+                             62.213.85.4	# rt.com
+                          172.21.67.0/24	# rt.com
+                          172.21.68.0/24	# rt.com
+                          172.21.69.0/24	# rt.com
+                          62.213.85.0/24	# rt.com
+                          64.4.240.64/27	# s._sid.ebay.com, s._spf.ebay.com
+                          64.4.244.64/27	# s._sid.ebay.com, s._spf.ebay.com
+                          66.135.213.241	# s._sid.ebay.com, s._spf.ebay.com
+                         66.135.215.0/24	# s._sid.ebay.com, s._spf.ebay.com
+                         66.211.161.0/25	# s._sid.ebay.com, s._spf.ebay.com
+                         66.211.184.0/23	# s._sid.ebay.com, s._spf.ebay.com
+                           167.89.0.0/17	# s._spf.pardot.com, sendgrid.biz
+                           50.31.32.0/19	# s._spf.pardot.com, sendgrid.biz, spf0.exacttarget.com
+                          74.63.236.0/24	# s._spf.pardot.com, sendgrid.biz, spf1.exacttarget.com
+                           198.21.0.0/21	# s._spf.pardot.com, sendgrid.biz, spf2.exacttarget.com
+                        192.254.112.0/20	# s._spf.pardot.com, sendgrid.biz, spf2.exacttarget.com
+                         198.37.144.0/20	# s._spf.pardot.com, sendgrid.biz, spf3.exacttarget.com
+                         208.117.48.0/20	# s._spf.pardot.com, sendgrid.biz, spf4.exacttarget.com
+                          74.113.233.244	# s059exchedge01.staff.iaccap.com
+                          74.113.234.241	# s059exchhub01.staff.iaccap.com
+                          74.113.233.242	# s059exchhub02.staff.iaccap.com
+                          74.113.233.245	# s059hbca02.staff.iaccap.com
+                          74.113.236.109	# s062exchhub01.staff.iaccap.com
+                           209.67.106.10	# sa.prodmail.safeharbor.com
+                            168.62.9.225	# saddleback.com
+                          70.183.18.0/24	# saddleback.com
+                            194.29.38.66	# sami.checkpoint.com
+                            59.106.13.82	# sanctuaryforall.com, www442.sakura.ne.jp
+                                 1.1.1.1	# scientificamerican.com
+                          64.106.177.144	# scientificamerican.com
+                           23.235.47.175	# scribd.com
+                       143.127.139.64/26	# securityfocus.com
+                          74.63.231.0/24	# sendgrid.biz
+                          74.63.247.0/24	# sendgrid.biz
+                        173.193.132.0/23	# sendgrid.biz
+                        208.115.235.0/24	# sendgrid.biz
+                        208.115.239.0/24	# sendgrid.biz
+                            98.159.240.6	# sentex.ca
+                           64.7.128.0/19	# sentex.ca
+                          206.51.23.0/24	# sentex.ca
+                          206.51.24.0/24	# sentex.ca
+                          206.51.25.0/24	# sentex.ca
+                          2607:f3e0::/32	# sentex.ca
+                          67.43.128.0/20	# sentex.ca
+                         206.130.91.0/24	# sentex.ca
+                         98.159.240.0/20	# sentex.ca
+                        199.212.134.0/23	# sentex.ca
+                        205.211.164.0/23	# sentex.ca
+                          209.134.144.21	# service.govdelivery.com
+                            64.14.81.245	# sharebuilder.com
+                           63.113.210.15	# sharebuilder.com
+                           63.113.210.30	# sharebuilder.com
+                           72.55.175.140	# sharebuilder.com
+                          204.63.55.0/24	# sharebuilder.com
+                          93.191.146.107	# sharebuilder.com
+                        199.244.214.0/24	# sharebuilder.com
+                        209.234.229.0/26	# sharebuilder.com
+                           111.221.67.51	# sharepointonline.com
+                           111.221.67.81	# sharepointonline.com
+                          104.146.136.22	# sharepointonline.com
+                          104.146.164.22	# sharepointonline.com
+                          104.146.166.22	# sharepointonline.com
+                          111.221.20.201	# sharepointonline.com
+                          134.170.200.31	# sharepointonline.com
+                             66.43.32.10	# sieve.misn.com
+                             66.43.32.11	# sieve2.misn.com
+                              66.43.32.9	# sieve3.misn.com
+                          50.193.207.148	# sj.prodmail.safeharbor.com
+                            66.45.58.204	# sketchup.com
+                            66.45.58.205	# sketchup.com
+                           66.45.111.100	# sketchup.com
+                          107.22.246.105	# sketchup.com
+                          66.45.58.32/27	# sketchup.com
+                        69.48.224.160/28	# sketchup.com
+                           206.17.168.28	# skynet.be
+                           94.125.164.65	# skynet.be
+                          63.211.239.154	# smtp.den.teliax.com
+                            204.135.8.93	# smtp.dmz.fedex.com
+                            204.135.8.94	# smtp.dmz.fedex.com
+                            204.135.8.95	# smtp.dmz.fedex.com
+                            204.135.8.96	# smtp.dmz.fedex.com
+                            204.135.8.97	# smtp.dmz.fedex.com
+                            204.135.8.98	# smtp.dmz.fedex.com
+                          199.81.212.185	# smtp.dmz.fedex.com
+                          199.81.212.186	# smtp.dmz.fedex.com
+                          199.81.212.187	# smtp.dmz.fedex.com
+                          199.81.212.188	# smtp.dmz.fedex.com
+                          199.81.212.189	# smtp.dmz.fedex.com
+                          199.81.212.190	# smtp.dmz.fedex.com
+                         209.132.180.187	# smtp.gnome.org
+                           170.41.161.92	# smtp.hosts.delta.com
+                           170.41.161.93	# smtp.hosts.delta.com
+                           170.41.161.97	# smtp.hosts.delta.com
+                           205.174.22.21	# smtp.hosts.delta.com
+                           205.174.22.22	# smtp.hosts.delta.com
+                          139.72.159.244	# smtp.hosts.delta.com
+                          139.72.159.246	# smtp.hosts.delta.com
+                          139.72.159.248	# smtp.hosts.delta.com
+                          170.41.161.100	# smtp.hosts.delta.com
+                            72.5.217.241	# smtp.pop.us
+                           72.167.238.29	# smtp.secureserver.net
+                             64.7.153.30	# smtp.sentex.ca
+                             67.43.128.2	# smtp.sentex.ca
+                             67.43.128.3	# smtp.sentex.ca
+                           199.212.134.4	# smtp.sentex.ca
+                           206.51.23.253	# smtp.sentex.ca
+                           206.51.23.254	# smtp.sentex.ca
+                             64.7.153.10	# smtp.sentex.ca, smtp1c.sentex.ca
+                            2607:f3e0::9	# smtp.sentex.ca, smtp2-6.sentex.ca
+                           199.212.134.9	# smtp.sentex.ca, smtp2.sentex.ca
+                            12.129.20.12	# smtp01.edifecs.com
+                            12.129.20.13	# smtp02.edifecs.com
+                           208.94.147.35	# smtp1.tiggee.com
+                         165.254.168.100	# smtpin.zoho.com
+                          74.201.154.100	# smtpin2.zoho.com
+                               145.7.6.1	# snapfish.com
+                          131.124.0.0/20	# snapfish.com
+                          74.122.80.0/21	# snapfish.com
+                          80.237.132.201	# snapfish.com
+                         63.145.232.0/26	# snapfish.com
+                         64.147.178.0/23	# snapfish.com
+                        199.241.112.0/21	# snapfish.com
+                           130.80.29.169	# sndmail1.chron.com
+                           130.80.29.170	# sndmail2.chron.com
+                           67.231.144.94	# spf-000cb501.pphosted.com
+                           67.231.152.94	# spf-000cb501.pphosted.com
+                     2620:100:9001:5e::1	# spf-000cb501.pphosted.com
+                     2620:100:9005:5e::1	# spf-000cb501.pphosted.com
+                         148.163.156.127	# spf-001c3501.pphosted.com
+                         148.163.158.124	# spf-001c3501.pphosted.com
+                            24.75.14.201	# spf-2.domaincontrol.com
+                           216.55.155.13	# spf-2.domaincontrol.com
+                           216.55.162.41	# spf-2.domaincontrol.com
+                          144.202.243.25	# spf-2.domaincontrol.com
+                          174.128.7.0/24	# spf-2.domaincontrol.com
+                          206.252.132.65	# spf-2.domaincontrol.com
+                        195.246.112.0/24	# spf-2.domaincontrol.com
+                          62.13.128.0/24	# spf-a.authsmtp.com
+                          62.13.136.0/22	# spf-a.authsmtp.com
+                          62.13.140.0/22	# spf-a.authsmtp.com
+                          62.13.144.0/22	# spf-a.authsmtp.com
+                          62.13.148.0/23	# spf-a.authsmtp.com
+                          62.13.150.0/23	# spf-a.authsmtp.com
+                          62.13.152.0/23	# spf-a.authsmtp.com
+                        62.13.129.128/25	# spf-a.authsmtp.com
+                           157.55.2.0/25	# spf-a.hotmail.com
+                           65.55.34.0/24	# spf-a.hotmail.com
+                           65.55.90.0/24	# spf-a.hotmail.com
+                          65.54.190.0/24	# spf-a.hotmail.com
+                          65.54.241.0/24	# spf-a.hotmail.com
+                          65.54.51.64/26	# spf-a.hotmail.com
+                          65.54.61.64/26	# spf-a.hotmail.com
+                          65.55.111.0/24	# spf-a.hotmail.com
+                          65.55.116.0/25	# spf-a.hotmail.com
+                         157.55.0.192/26	# spf-a.hotmail.com
+                         157.55.1.128/26	# spf-a.hotmail.com
+                         207.46.117.0/24	# spf-a.hotmail.com
+                           65.55.94.0/25	# spf-a.outlook.com
+                          157.55.49.0/25	# spf-a.outlook.com
+                          157.55.61.0/24	# spf-a.outlook.com
+                          157.56.24.0/25	# spf-a.outlook.com
+                          65.55.126.0/25	# spf-a.outlook.com
+                          65.55.174.0/25	# spf-a.outlook.com
+                         157.56.232.0/21	# spf-a.outlook.com
+                         157.56.240.0/20	# spf-a.outlook.com
+                         207.46.198.0/25	# spf-a.outlook.com
+                         207.46.4.128/25	# spf-a.outlook.com
+                         65.55.113.64/26	# spf-a.outlook.com
+                       157.55.157.128/25	# spf-a.outlook.com
+                          216.136.168.93	# spf-a.rnmk.com
+                          216.136.229.13	# spf-a.rnmk.com
+                         208.72.90.64/26	# spf-a.rnmk.com
+                         208.72.94.64/26	# spf-a.rnmk.com
+                        205.223.81.64/26	# spf-a.rnmk.com
+                        205.223.83.64/26	# spf-a.rnmk.com
+                        205.223.85.64/26	# spf-a.rnmk.com
+                        205.223.87.64/26	# spf-a.rnmk.com
+                        74.117.201.64/26	# spf-a.rnmk.com
+                        74.117.203.64/26	# spf-a.rnmk.com
+                       216.136.162.64/26	# spf-a.rnmk.com
+                       204.150.232.64/28	# spf-a.sharebuilder.com
+                       204.150.234.64/28	# spf-a.sharebuilder.com
+                       207.207.31.128/27	# spf-a.sharebuilder.com
+                            191.232.0.22	# spf-a.sharepointonline.com
+                           157.55.229.51	# spf-a.sharepointonline.com
+                           157.55.231.39	# spf-a.sharepointonline.com
+                           157.55.46.141	# spf-a.sharepointonline.com
+                           191.234.10.30	# spf-a.sharepointonline.com
+                           191.234.10.32	# spf-a.sharepointonline.com
+                          134.170.202.31	# spf-a.sharepointonline.com
+                          134.170.204.81	# spf-a.sharepointonline.com
+                          134.170.206.11	# spf-a.sharepointonline.com
+                          191.234.144.22	# spf-a.sharepointonline.com
+                          191.234.150.22	# spf-a.sharepointonline.com
+                            64.49.192.24	# spf-b.authsmtp.com
+                            64.49.192.25	# spf-b.authsmtp.com
+                            64.49.210.76	# spf-b.authsmtp.com
+                            64.49.210.77	# spf-b.authsmtp.com
+                            64.49.210.78	# spf-b.authsmtp.com
+                          209.61.188.242	# spf-b.authsmtp.com
+                          72.52.72.32/28	# spf-b.authsmtp.com
+                         64.49.192.16/29	# spf-b.authsmtp.com
+                         64.49.210.64/29	# spf-b.authsmtp.com
+                         64.49.210.72/30	# spf-b.authsmtp.com
+                          157.55.11.0/25	# spf-b.outlook.com
+                         111.221.66.0/25	# spf-b.outlook.com
+                         157.55.225.0/25	# spf-b.outlook.com
+                         157.56.248.0/21	# spf-b.outlook.com
+                         65.55.78.128/25	# spf-b.outlook.com
+                        111.221.112.0/21	# spf-b.outlook.com
+                        207.46.58.128/25	# spf-b.outlook.com
+                        213.199.177.0/26	# spf-b.outlook.com
+                        70.37.151.128/25	# spf-b.outlook.com
+                       111.221.23.128/25	# spf-b.outlook.com
+                       111.221.69.128/25	# spf-b.outlook.com
+                           74.117.200.18	# spf-b.rnmk.com
+                           74.117.200.22	# spf-b.rnmk.com
+                           74.117.202.18	# spf-b.rnmk.com
+                           74.117.202.22	# spf-b.rnmk.com
+                           74.117.205.22	# spf-b.rnmk.com
+                           74.117.205.36	# spf-b.rnmk.com
+                          216.136.229.48	# spf-b.rnmk.com
+                          74.117.202.148	# spf-b.rnmk.com
+                          74.117.202.152	# spf-b.rnmk.com
+                          74.117.203.135	# spf-b.rnmk.com
+                          74.117.203.192	# spf-b.rnmk.com
+                          74.117.203.209	# spf-b.rnmk.com
+                            191.234.8.31	# spf-b.sharepointonline.com
+                          191.234.152.22	# spf-b.sharepointonline.com
+                          191.234.156.22	# spf-b.sharepointonline.com
+                          191.234.192.46	# spf-b.sharepointonline.com
+                          191.234.194.46	# spf-b.sharepointonline.com
+                          191.234.204.22	# spf-b.sharepointonline.com
+                            208.72.90.16	# spf-c.rnmk.com
+                            208.72.90.17	# spf-c.rnmk.com
+                            208.72.91.18	# spf-c.rnmk.com
+                            208.72.91.22	# spf-c.rnmk.com
+                            208.72.92.12	# spf-c.rnmk.com
+                            208.72.92.28	# spf-c.rnmk.com
+                            208.72.93.28	# spf-c.rnmk.com
+                           208.72.90.135	# spf-c.rnmk.com
+                           208.72.92.202	# spf-c.rnmk.com
+                           208.72.92.212	# spf-c.rnmk.com
+                           64.56.194.155	# spf-c.rnmk.com
+                           74.117.206.22	# spf-c.rnmk.com
+                           74.117.207.22	# spf-c.rnmk.com
+                             63.77.90.11	# spf-e.verisign.com
+                             72.13.60.15	# spf-e.verisign.com
+                           72.13.63.0/25	# spf-e.verisign.com
+                          209.112.118.73	# spf-e.verisign.com
+                          209.112.118.74	# spf-e.verisign.com
+                          69.58.180.0/25	# spf-e.verisign.com
+                          69.58.191.0/25	# spf-e.verisign.com
+                       216.168.239.64/28	# spf-e.verisign.com
+                       216.168.254.20/31	# spf-e.verisign.com
+                      216.168.253.154/31	# spf-e.verisign.com
+                         203.144.48.0/24	# spf-i.verisign.com
+                         81.19.192.40/31	# spf-i.verisign.com
+                         81.19.200.18/31	# spf-i.verisign.com
+                            69.58.183.55	# spf-i.verisign.com, spf-ilg.symantec.com
+                         37.148.180.0/25	# spf-m.addemar.com
+                       217.148.20.160/27	# spf-m.addemar.com
+                       217.148.21.128/25	# spf-m.addemar.com
+                          216.168.252.55	# spf-mtv.symantec.com
+                             64.4.240.67	# spf-p.verisign.com
+                          216.113.188.96	# spf-p.verisign.com
+                          64.4.240.74/31	# spf-p.verisign.com
+                          64.4.244.74/31	# spf-p.verisign.com
+                         216.113.188.112	# spf-p.verisign.com
+                            198.31.62.35	# spf-w.verisign.com
+                            66.35.244.13	# spf-w.verisign.com
+                           196.36.130.56	# spf-w.verisign.com
+                          65.205.248.244	# spf-w.verisign.com
+                          65.205.248.249	# spf-w.verisign.com
+                        196.36.130.34/31	# spf-w.verisign.com
+                        208.20.232.20/30	# spf-w.verisign.com
+                        65.205.251.64/27	# spf-w.verisign.com
+                          212.111.33.169	# spf.aa.com
+                            69.5.85.0/25	# spf.as.service.govdelivery.com
+                            69.5.86.0/24	# spf.as.service.govdelivery.com
+                            69.5.87.0/24	# spf.as.service.govdelivery.com
+                       174.140.129.48/28	# spf.as.service.govdelivery.com
+                           209.134.144.4	# spf.as.service.govdelivery.com, spf.ep.service.govdelivery.com
+                           205.219.64.40	# spf.braintreegateway.com
+                           63.146.102.40	# spf.braintreegateway.com
+                         184.105.251.240	# spf.braintreegateway.com
+                         209.117.187.240	# spf.braintreegateway.com
+                         208.75.120.0/22	# spf.constantcontact.com
+                             198.21.2.77	# spf.daveramsey.com
+                          192.254.125.86	# spf.daveramsey.com
+                           162.88.4.0/24	# spf.dynect.net
+                           199.19.0.0/21	# spf.dynect.net
+                          162.88.36.0/24	# spf.dynect.net
+                          208.76.56.0/21	# spf.dynect.net
+                          208.78.68.0/22	# spf.dynect.net
+                          80.231.25.0/24	# spf.dynect.net
+                          91.198.22.0/24	# spf.dynect.net
+                         103.11.200.0/22	# spf.dynect.net
+                         203.62.195.0/24	# spf.dynect.net
+                         204.13.248.0/22	# spf.dynect.net
+                         216.146.32.0/20	# spf.dynect.net
+                         80.231.219.0/24	# spf.dynect.net
+                        209.134.151.0/24	# spf.ep.service.govdelivery.com
+                        209.134.158.0/24	# spf.ep.service.govdelivery.com
+                      209.134.144.240/28	# spf.ep.service.govdelivery.com
+                           72.35.12.0/24	# spf.fusemail.net, spf.mailanyone.net
+                           72.35.23.0/24	# spf.fusemail.net, spf.mailanyone.net
+                         208.70.128.0/21	# spf.fusemail.net, spf.mailanyone.net
+                        192.162.216.0/22	# spf.fusemail.net, spf.mailanyone.net
+                           167.8.66.0/24	# spf.gannett.com
+                          159.54.32.0/24	# spf.gannett.com
+                          159.54.39.0/24	# spf.gannett.com
+                         159.54.253.0/24	# spf.gannett.com
+                           199.87.116.16	# spf.groupon.com
+                           204.17.255.32	# spf.groupon.com
+                           204.17.255.34	# spf.groupon.com
+                           72.250.205.16	# spf.groupon.com
+                          213.242.67.150	# spf.groupon.com
+                         174.129.153.106	# spf.groupon.com
+                         50.115.208.0/22	# spf.groupon.com
+                        162.244.196.0/24	# spf.intermedia.net
+                        185.64.213.32/27	# spf.intermedia.net
+                        185.64.213.96/27	# spf.intermedia.net
+                            64.78.0.0/18	# spf.intermedia.net, spf.serverdata.net
+                           207.5.72.0/22	# spf.intermedia.net, spf.serverdata.net
+                           207.5.76.0/23	# spf.intermedia.net, spf.serverdata.net
+                          206.40.48.0/24	# spf.intermedia.net, spf.serverdata.net
+                          69.10.229.0/24	# spf.intermedia.net, spf.serverdata.net
+                         205.217.20.0/24	# spf.intermedia.net, spf.serverdata.net
+                        162.216.192.0/22	# spf.intermedia.net, spf.serverdata.net
+                        199.193.200.0/21	# spf.intermedia.net, spf.serverdata.net
+                        206.225.164.0/22	# spf.intermedia.net, spf.serverdata.net
+                            159.53.54.14	# spf.jpmchase.com
+                           159.53.104.75	# spf.jpmchase.com
+                           159.53.104.76	# spf.jpmchase.com
+                           159.53.40.157	# spf.jpmchase.com
+                           159.53.40.158	# spf.jpmchase.com
+                           54.77.200.126	# spf.logicalware.net
+                            66.59.0.0/19	# spf.mailengine1.com
+                          72.19.192.0/18	# spf.mailengine1.com
+                           5.135.24.0/24	# spf.mailjet.com
+                          178.33.111.144	# spf.mailjet.com
+                          37.59.249.0/24	# spf.mailjet.com
+                         178.33.221.0/24	# spf.mailjet.com
+                         37.59.69.128/25	# spf.mailjet.com
+                         87.253.232.0/21	# spf.mailjet.com
+                       178.33.137.208/28	# spf.mailjet.com
+                          198.2.128.0/24	# spf.mandrillapp.com
+                          198.2.132.0/22	# spf.mandrillapp.com
+                          198.2.136.0/23	# spf.mandrillapp.com
+                          198.2.186.0/23	# spf.mandrillapp.com
+                        205.201.136.0/23	# spf.mandrillapp.com
+                        205.201.139.0/24	# spf.mandrillapp.com
+                      205.201.131.128/25	# spf.mandrillapp.com
+                      205.201.134.128/25	# spf.mandrillapp.com
+                           66.111.4.0/24	# spf.messagingengine.com
+                       82.221.106.240/29	# spf.messagingengine.com
+                         213.27.158.0/27	# spf.mittum.com
+                         69.162.173.0/24	# spf.mittum.com
+                        186.194.140.0/25	# spf.mittum.com
+                       189.197.63.192/26	# spf.mittum.com
+                       2607:f128:46::/48	# spf.mittum.com
+                        213.229.186.0/27	# spf.mittum.com, wal-mart.com
+                      213.229.189.144/28	# spf.mittum.com, wal-mart.com
+                      213.229.189.208/28	# spf.mittum.com, wal-mart.com
+                         50.31.156.96/27	# spf.mtasv.net
+                              63.251.2.1	# spf.orbitz.com
+                          208.64.80.0/21	# spf.orbitz.com
+                          69.20.119.0/24	# spf.orbitz.com
+                         198.151.60.0/23	# spf.orbitz.com
+                         198.175.55.0/24	# spf.orbitz.com
+                         198.175.56.0/23	# spf.orbitz.com
+                         198.175.58.0/24	# spf.orbitz.com
+                      216.113.133.128/30	# spf.orbitz.com
+                          208.111.40.241	# spf.packetexport.com
+                         209.177.145.235	# spf.packetexport.com
+                        2607:f740:c::f8b	# spf.packetexport.com
+                        2607:f740:f::f83	# spf.packetexport.com
+                       69.197.191.248/29	# spf.packetexport.com
+                       74.122.197.112/29	# spf.packetexport.com
+                     2604:4300:a:73::/64	# spf.packetexport.com
+                     2607:ff50:0:20::/64	# spf.packetexport.com
+                            63.71.11.123	# spf.postini.com
+                            63.71.11.124	# spf.postini.com
+                           63.146.199.13	# spf.postini.com
+                           63.146.199.14	# spf.postini.com
+                          63.71.8.100/30	# spf.postini.com
+                          63.71.8.104/30	# spf.postini.com
+                          63.71.8.108/31	# spf.postini.com
+                          65.55.169.0/24	# spf.protection.outlook.com
+                         157.55.133.0/25	# spf.protection.outlook.com
+                         157.55.234.0/24	# spf.protection.outlook.com
+                         157.56.110.0/23	# spf.protection.outlook.com
+                         207.46.100.0/24	# spf.protection.outlook.com
+                         207.46.108.0/25	# spf.protection.outlook.com
+                        213.199.180.0/24	# spf.protection.outlook.com
+                       207.46.101.128/26	# spf.protection.outlook.com
+                            10.32.4.0/24	# spf.serverdata.net
+                         185.64.213.0/25	# spf.serverdata.net
+                         207.82.70.16/28	# spf.serverdata.net
+                          208.42.179.121	# spf.sp.service.govdelivery.com
+                          208.42.179.123	# spf.sp.service.govdelivery.com
+                         208.42.137.0/24	# spf.sp.service.govdelivery.com
+                         208.42.190.0/24	# spf.sp.service.govdelivery.com
+                            166.98.1.209	# spf.symantec.com
+                            166.98.1.210	# spf.symantec.com
+                            202.75.191.8	# spf.symantec.com
+                           216.10.194.28	# spf.symantec.com
+                          216.10.194.135	# spf.symantec.com
+                          216.10.195.241	# spf.symantec.com
+                          216.10.195.242	# spf.symantec.com
+                          216.10.195.243	# spf.symantec.com
+                           74.201.152.59	# spf.zoho.com
+                           74.201.155.27	# spf.zoho.com
+                           74.201.155.28	# spf.zoho.com
+                        74.201.84.152/29	# spf.zoho.com
+                        74.201.84.160/30	# spf.zoho.com
+                              67.23.31.6	# spf0.exacttarget.com
+                           212.123.28.40	# spf1.amazon.com
+                          203.81.17.0/24	# spf1.amazon.com
+                          72.21.192.0/19	# spf1.amazon.com
+                          72.21.212.0/25	# spf1.amazon.com
+                          87.238.80.0/21	# spf1.amazon.com
+                         194.7.41.144/28	# spf1.amazon.com
+                        207.171.160.0/19	# spf1.amazon.com
+                       178.236.10.128/26	# spf1.amazon.com
+                      194.154.193.192/27	# spf1.amazon.com
+                          2a02:1788::/32	# spf1.comodo.com
+                         91.199.212.0/24	# spf1.comodo.com
+                         91.209.196.0/24	# spf1.comodo.com
+                        81.187.167.48/28	# spf1.comodo.com
+                        82.109.38.200/29	# spf1.comodo.com
+                            69.65.42.195	# spf1.exacttarget.com
+                            74.63.234.75	# spf1.exacttarget.com
+                         69.65.49.192/29	# spf1.exacttarget.com
+                        174.37.226.64/27	# spf1.mailgun.org
+                        184.173.105.0/24	# spf1.mailgun.org
+                        184.173.153.0/24	# spf1.mailgun.org
+                        50.23.218.192/27	# spf1.mailgun.org
+                       173.193.210.32/27	# spf1.mailgun.org
+                       208.43.239.136/30	# spf1.mailgun.org
+                          198.2.128.0/18	# spf1.mcsv.net
+                        205.201.128.0/20	# spf1.mcsv.net
+                            216.69.160.6	# spf100-4.domaincontrol.com
+                            66.98.158.77	# spf100-4.domaincontrol.com
+                           207.71.241.81	# spf100-4.domaincontrol.com
+                           66.246.252.57	# spf100-4.domaincontrol.com
+                           72.167.0.0/16	# spf100-4.domaincontrol.com
+                          208.109.0.0/16	# spf100-4.domaincontrol.com
+                          216.242.235.41	# spf100-4.domaincontrol.com
+                         4.79.224.144/29	# spf100-4.domaincontrol.com
+                         64.202.160.0/19	# spf100-4.domaincontrol.com
+                         68.178.232.0/24	# spf100-4.domaincontrol.com
+                         68.178.252.0/24	# spf100-4.domaincontrol.com
+                         198.71.224.0/24	# spf100-5.domaincontrol.com
+                         198.71.225.0/24	# spf100-5.domaincontrol.com
+                         68.178.213.0/24	# spf100-5.domaincontrol.com
+                          106.50.16.0/28	# spf2.amazon.com
+                         176.32.105.0/24	# spf2.amazon.com
+                         176.32.127.0/24	# spf2.amazon.com
+                          2605:dc00::/32	# spf2.bluehost.com
+                          168.144.196.65	# spf2.comodo.com
+                          168.144.196.96	# spf2.comodo.com
+                          168.144.196.97	# spf2.comodo.com
+                          168.144.196.99	# spf2.comodo.com
+                         168.144.196.105	# spf2.comodo.com
+                         168.144.196.110	# spf2.comodo.com
+                         178.255.80.0/21	# spf2.comodo.com
+                         82.110.55.12/30	# spf2.comodo.com
+                        81.187.167.96/28	# spf2.comodo.com
+                          174.36.84.8/29	# spf2.exacttarget.com
+                          166.78.68.0/22	# spf2.mailgun.org
+                         104.130.96.0/28	# spf2.mailgun.org
+                         198.61.254.0/23	# spf2.mailgun.org
+                         209.61.151.0/24	# spf2.mailgun.org
+                         23.253.182.0/24	# spf2.mailgun.org
+                         23.253.183.0/24	# spf2.mailgun.org
+                        192.237.158.0/23	# spf2.mailgun.org
+                            72.5.230.111	# spf2.zoho.com
+                           74.201.155.25	# spf2.zoho.com
+                           74.201.155.26	# spf2.zoho.com
+                       165.254.168.66/31	# spf2.zoho.com
+                       165.254.168.68/31	# spf2.zoho.com
+                       165.254.168.70/31	# spf2.zoho.com
+                       165.254.168.72/31	# spf2.zoho.com
+                          91.212.12.0/24	# spf3.comodo.com
+                         199.66.200.0/21	# spf3.comodo.com
+                         208.116.56.0/24	# spf3.comodo.com
+                        38.104.66.248/29	# spf3.comodo.com
+                        74.86.241.250/31	# spf3.exacttarget.com
+                           178.33.199.67	# spf4.comodo.com
+                          174.123.134.66	# spf4.comodo.com
+                          174.123.135.18	# spf4.comodo.com
+                       174.36.192.208/28	# spf4.comodo.com
+                       208.43.255.160/28	# spf4.comodo.com
+                       216.203.33.178/31	# spf4.exacttarget.com
+                           69.57.168.133	# spf6.comodo.com
+                            65.55.63.153	# spfa.microsoftonline.com
+                           157.56.55.119	# spfa.microsoftonline.com
+                           207.46.62.153	# spfa.microsoftonline.com
+                           65.55.171.153	# spfa.microsoftonline.com
+                          157.55.130.116	# spfa.microsoftonline.com
+                         213.199.187.153	# spfa.microsoftonline.com
+                           64.4.22.64/26	# spfa.protection.outlook.com
+                         157.55.158.0/23	# spfa.protection.outlook.com
+                         157.56.112.0/24	# spfa.protection.outlook.com
+                         157.56.116.0/25	# spfa.protection.outlook.com
+                         157.56.120.0/25	# spfa.protection.outlook.com
+                        134.170.132.0/24	# spfa.protection.outlook.com
+                        134.170.140.0/24	# spfa.protection.outlook.com
+                        157.56.87.192/26	# spfa.protection.outlook.com
+                           198.57.19.117	# spfa.sprint.com
+                         144.229.35.8/29	# spfa.sprint.com
+                         207.40.188.8/29	# spfa.sprint.com
+                        144.229.32.56/29	# spfa.sprint.com
+                        144.230.191.0/29	# spfa.sprint.com
+                       144.230.162.48/29	# spfa.sprint.com
+                       144.230.168.24/29	# spfa.sprint.com
+                       168.73.245.112/29	# spfa.sprint.com
+                          210.193.131.12	# spfap.morningstar.com
+                           104.47.0.0/17	# spfb.protection.outlook.com
+                         23.103.128.0/19	# spfb.protection.outlook.com
+                         23.103.191.0/24	# spfb.protection.outlook.com
+                         23.103.198.0/23	# spfb.protection.outlook.com
+                         23.103.200.0/21	# spfb.protection.outlook.com
+                         23.103.208.0/21	# spfb.protection.outlook.com
+                      2a01:111:f400::/48	# spfb.protection.outlook.com
+                            198.12.18.18	# spfb.sprint.com
+                            65.69.165.57	# spfb.sprint.com
+                            65.69.165.60	# spfb.sprint.com
+                            72.3.219.149	# spfb.sprint.com
+                           208.115.47.55	# spfb.sprint.com
+                          64.127.122.170	# spfb.sprint.com
+                         144.229.32.8/29	# spfb.sprint.com
+                          144.230.7.0/24	# spfc.sprint.com
+                         144.230.32.0/23	# spfc.sprint.com
+                        144.230.172.0/23	# spfc.sprint.com
+                        144.230.191.0/28	# spfc.sprint.com
+                         195.47.237.0/24	# spfeu.morningstar.com
+                           54.225.132.73	# spfna.morningstar.com
+                           67.202.196.28	# spfna.morningstar.com
+                          206.220.16.138	# spfna.morningstar.com
+                          206.220.16.139	# spfna.morningstar.com
+                          206.220.16.140	# spfna.morningstar.com
+                          216.234.248.82	# spfna.morningstar.com
+                         216.234.248.124	# spfna.morningstar.com
+                            65.17.202.35	# spfx.morningstar.com
+                            65.17.202.40	# spfx.morningstar.com
+                            66.35.231.15	# spfx.morningstar.com
+                            66.35.231.16	# spfx.morningstar.com
+                            66.35.231.17	# spfx.morningstar.com
+                            66.35.231.18	# spfx.morningstar.com
+                           209.177.160.9	# spfx.morningstar.com
+                           209.177.168.2	# spfx.morningstar.com
+                          209.177.164.34	# spfx.morningstar.com
+                            50.17.68.103	# spfx2.morningstar.com
+                          208.66.206.104	# spfx2.morningstar.com
+                          208.66.206.188	# spfx2.morningstar.com
+                          208.66.206.228	# spfx2.morningstar.com
+                          208.66.206.229	# spfx2.morningstar.com
+                          208.66.207.118	# spfx2.morningstar.com
+                        173.245.103.0/24	# spfx2.morningstar.com
+                          38.103.84.0/24	# spirit.com
+                           192.116.242.5	# startcom.org
+                          192.116.242.15	# startcom.org
+                          192.116.242.20	# startssl.com
+                          12.34.246.0/24	# statefarm.com
+                          204.94.39.0/24	# statefarm.com
+                        204.118.102.0/24	# statefarm.com
+                        205.166.218.0/24	# statefarm.com
+                        205.242.228.0/23	# statefarm.com
+                           208.53.51.254	# sulu.familylink.com
+                           63.245.193.25	# symantec.com
+                           63.245.197.25	# symantec.com
+                           63.245.201.25	# symantec.com
+                           23.59.189.106	# target.com
+                           23.59.189.107	# target.com
+                          161.225.196.20	# target.com
+                          161.225.196.21	# target.com
+                          161.225.196.22	# target.com
+                          161.225.196.23	# target.com
+                          161.225.201.20	# target.com
+                          161.225.201.21	# target.com
+                          161.225.201.22	# target.com
+                          161.225.201.23	# target.com
+                          192.237.129.78	# target.com
+                          74.122.218.109	# teamaol.com
+                          74.122.218.110	# teamaol.com
+                           63.211.239.26	# teliax.com
+                        23.235.226.96/27	# tenderapp.com
+                          209.87.222.188	# tls-us.us.checkpoint.com
+                           194.29.38.130	# tls.checkpoint.com
+                           74.82.64.0/19	# tmo.blackberry.net
+                          67.223.64.0/19	# tmo.blackberry.net
+                         206.53.144.0/20	# tmo.blackberry.net
+                            63.150.74.35	# tpo.chase.com
+                            68.233.76.14	# tpo.chase.com
+                          161.58.88.0/24	# tpo.chase.com
+                         198.104.137.206	# tpo.chase.com
+                         198.64.159.0/24	# tpo.chase.com
+                          216.251.0.0/16	# travelocity.com
+                        137.236.176.0/24	# travelocity.com
+                        151.193.120.0/24	# travelocity.com
+                        151.193.165.0/24	# travelocity.com
+                        151.193.167.0/24	# travelocity.com
+                        151.193.220.0/24	# travelocity.com
+                        151.193.224.0/24	# travelocity.com
+                        151.193.225.0/24	# travelocity.com
+                       199.204.31.240/28	# travelocity.com
+                             23.21.83.90	# twitter.com
+                           8.25.194.0/23	# twitter.com
+                           8.25.196.0/23	# twitter.com
+                          204.92.114.203	# twitter.com
+                         199.16.156.0/22	# twitter.com
+                         199.59.148.0/22	# twitter.com
+                       204.92.114.204/31	# twitter.com
+                          165.215.0.0/16	# umi.com
+                            208.85.52.15	# ups.com
+                            83.103.89.66	# ups.com
+                           216.115.165.7	# ups.com
+                           83.222.15.198	# ups.com
+                          113.106.161.16	# ups.com
+                          113.106.161.18	# ups.com
+                          153.2.232.0/22	# ups.com
+                          198.61.254.165	# ups.com
+                          212.174.33.111	# ups.com
+                          63.64.171.8/29	# ups.com
+                         12.104.201.4/31	# ups.com
+                         203.174.161.197	# ups.com
+                         203.174.161.213	# ups.com
+                         203.174.161.228	# ups.com
+                         204.152.235.220	# ups.com
+                         204.152.239.220	# ups.com
+                        192.55.236.50/31	# ups.com
+                           173.252.148.2	# usa.gov
+                           63.101.151.10	# usa7109mr.acs-inc.com
+                            12.47.205.99	# usairways.com
+                           12.47.205.120	# usairways.com
+                           162.92.180.51	# usairways.com
+                         159.54.128.0/24	# usatoday.com
+                          63.241.40.0/24	# uscourts.gov
+                         199.107.16.0/24	# uscourts.gov
+                          209.87.222.190	# usmail-as.zonelabs.com
+                             56.0.0.0/16	# usps.com
+                          74.222.172.110	# vault.krypt.com
+                          192.76.84.0/24	# verizon.com
+                         140.108.22.0/26	# verizon.com
+                         140.108.26.0/24	# verizon.com
+                         199.249.25.0/24	# verizon.com
+                          162.115.0.0/16	# verizon.com, verizonwireless.com
+                            199.74.155.0	# verizonwireless.com
+                            204.93.95.57	# verizonwireless.com
+                            69.78.0.0/16	# verizonwireless.com
+                            74.200.239.8	# verizonwireless.com
+                           23.246.196.34	# verizonwireless.com
+                           66.174.0.0/16	# verizonwireless.com
+                          137.188.0.0/16	# verizonwireless.com
+                        204.93.64.116/30	# verizonwireless.com
+                        204.93.80.116/30	# verizonwireless.com
+                        74.200.239.32/30	# verizonwireless.com
+                           95.142.10.207	# viatecla.com, viatecla.pt
+                           95.142.10.217	# viatecla.com, viatecla.pt
+                           95.142.10.239	# viatecla.com, viatecla.pt
+                            50.31.39.225	# vpls.net
+                           74.222.139.46	# vpls.net
+                         74.222.171.0/24	# vpls.net
+                         74.222.172.0/24	# vpls.net
+                         148.122.215.227	# w3schools.com
+                        161.165.225.0/25	# wal-mart.com
+                        161.167.229.0/24	# wal-mart.com
+                        161.168.202.0/24	# wal-mart.com
+                       161.168.202.60/30	# wal-mart.com
+                            63.73.199.22	# walgreens.com
+                            131.124.4.20	# walmart.com
+                           64.127.107.20	# walmart.com
+                          161.170.236.31	# walmart.com
+                          161.170.238.31	# walmart.com
+                          161.170.244.20	# walmart.com
+                          161.170.248.20	# walmart.com
+                         161.170.244.198	# walmart.com
+                         161.170.248.175	# walmart.com
+                        161.170.244.0/24	# walmart.com
+                        161.170.248.0/24	# walmart.com
+                       161.170.241.16/30	# walmart.com
+                             96.8.80.135	# weather.com
+                             96.8.80.136	# weather.com
+                             96.8.82.135	# weather.com
+                             96.8.84.135	# weather.com
+                             96.8.88.240	# weather.com
+                            65.212.71.11	# weather.com
+                          208.106.251.89	# weather.com
+                           64.68.114.153	# webex.com
+                          64.68.121.0/24	# webex.com
+                          64.68.122.0/24	# webex.com
+                          64.68.124.0/24	# webex.com
+                        209.197.221.0/24	# webex.com
+                        64.68.126.248/30	# webex.com
+                       66.114.171.112/29	# webex.com
+                      209.197.208.112/29	# webex.com
+                         217.113.179.118	# webmail.newmedia-net.de
+                         217.113.179.122	# webmail.newmedia-net.de
+                              64.78.52.5	# west.smtp.exch027.serverdata.net
+                           158.52.183.20	# wmail1.whirlpool.com
+                           158.52.183.52	# wmail2.whirlpool.com
+                           158.52.183.36	# wmail5.whirlpool.com
+                            72.5.217.201	# wordfly.com
+                            72.5.51.0/24	# wordfly.com
+                           64.94.117.122	# wordfly.com
+                           72.5.217.0/24	# wordfly.com
+             2001:e42:101:4:59:106:13:82	# www442.sakura.ne.jp
+                             63.71.15.25	# zixcorp.com
+                             63.71.8.172	# zixmail.com
+                             63.71.8.101	# zixmail.net
+                             63.71.8.102	# zixmail.net
+                             63.71.8.103	# zixmail.net
+                             63.71.8.104	# zixmail.net
+                             63.71.8.105	# zixmail.net
+                             63.71.8.106	# zixmail.net
+                             63.71.8.107	# zixmail.net
+                             63.71.8.108	# zixmail.net
+                             63.71.8.109	# zixmail.net
+                          74.201.112.118	# zoho.com
+                          74.201.113.118	# zoho.com
