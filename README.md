@@ -1,5 +1,6 @@
 # openbsd-install
 
+```bash
 ssh-keygen -t ecdsa -b 521
 ssh-keygen -a 32 -t ed25519
 ssh-keygen -b 8192 -t rsa
@@ -23,3 +24,4 @@ export HISTFILE=$HOME/.ksh_history
 cp /dev/null /etc/motd
 
 echo "root:   root@mx.ptudor.net" >> /etc/mail/aliases
+```
