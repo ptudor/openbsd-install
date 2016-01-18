@@ -4,7 +4,6 @@
 ssh-keygen -t ecdsa -b 521
 ssh-keygen -a 32 -t ed25519
 ssh-keygen -b 8192 -t rsa
-ssh-keygen -t dsa
 
 ssh-keygen -r `hostname -s`
 
@@ -19,7 +18,6 @@ chpass -s /bin/csh root
 
 export HISTSIZE=500
 export HISTFILE=$HOME/.ksh_history
-
 
 cp /dev/null /etc/motd
 
